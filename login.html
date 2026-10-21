@@ -125,7 +125,8 @@
         location.replace(next);
       }
     } catch (err) {
-      if (/not confirmed/i.test(err.message)) sayUnconfirmed(email);
+      if (/rate limit|too many/i.test(err.message)) say("Too many sign-ups right now. Please try again in a few minutes.", true);
+      else if (/not confirmed/i.test(err.message)) sayUnconfirmed(email);
       else say(/invalid login/i.test(err.message) ? "That email and password don't match. Try again or reset your password." : err.message, true);
     } finally { $("submit").disabled = false; }
   });
