@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://SITE_URL/sitemap.xml
+Sitemap: https://blakewhite101.github.io/ledgerline/sitemap.xml
