@@ -1,0 +1,12 @@
+name: Check Supabase key
+on: workflow_dispatch
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - run: |
+          U=https://tewdeqlqfgijubmgldxi.supabase.co
+          for k in sb_publishable_YK0S63OoAmQpEtQvVcyEyg_TM5Tzx6X sb_publishable_YKOS63OoAmQpEtQvVcyEyg_TM5Tzx6X sb_publishable_YK0S630oAmQpEtQvVcyEyg_TM5Tzx6X sb_publishable_YKOS630oAmQpEtQvVcyEyg_TM5Tzx6X; do
+            echo "$k -> $(curl -s -o /dev/null -w '%{http_code}' -H "apikey: $k" $U/auth/v1/settings)"
+          done
+          echo "site_url check:"; curl -s -H "apikey: sb_publishable_YK0S63OoAmQpEtQvVcyEyg_TM5Tzx6X" $U/auth/v1/settings | head -c 300; echo
