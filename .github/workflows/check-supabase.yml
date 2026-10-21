@@ -1,0 +1,11 @@
+name: Check Supabase tables
+on: workflow_dispatch
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - run: |
+          U=https://tewdeqlqfgijubmgldxi.supabase.co; K=sb_publishable_YK0S63OoAmQpEtQvVcyEyg_TM5Tzx6X
+          for t in holdings notes watchlist alerts; do
+            echo "$t -> $(curl -s -w ' %{http_code}' -H "apikey: $K" "$U/rest/v1/$t?select=*&limit=0")"
+          done

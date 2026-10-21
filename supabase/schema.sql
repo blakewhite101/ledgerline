@@ -1,4 +1,4 @@
--- Run once in the Supabase SQL editor.
+-- Run in the Supabase SQL editor. Safe to run more than once.
 -- Each signed-in user can read and change only their own rows.
 
 create table if not exists public.holdings (
@@ -21,9 +21,11 @@ create table if not exists public.notes (
 alter table public.holdings enable row level security;
 alter table public.notes enable row level security;
 
+drop policy if exists "Users manage their own holdings" on public.holdings;
 create policy "Users manage their own holdings" on public.holdings
   for all using (auth.uid() = user_id) with check (auth.uid() = user_id);
 
+drop policy if exists "Users manage their own notes" on public.notes;
 create policy "Users manage their own notes" on public.notes
   for all using (auth.uid() = user_id) with check (auth.uid() = user_id);
 
@@ -47,8 +49,10 @@ create table if not exists public.alerts (
 alter table public.watchlist enable row level security;
 alter table public.alerts enable row level security;
 
+drop policy if exists "Users manage their own watchlist" on public.watchlist;
 create policy "Users manage their own watchlist" on public.watchlist
   for all using (auth.uid() = user_id) with check (auth.uid() = user_id);
 
+drop policy if exists "Users manage their own alerts" on public.alerts;
 create policy "Users manage their own alerts" on public.alerts
   for all using (auth.uid() = user_id) with check (auth.uid() = user_id);
