@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Stock Market Heatmap | Ledgerline</title>
+<meta name="description" content="See today's stock market at a glance: a heatmap of the largest US stocks by sector, colored by today's move and sized by company value.">
+<meta name="robots" content="index, follow">
+<link rel="canonical" href="https://SITE_URL/heatmap.html">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Stock Market Heatmap | Ledgerline">
+<meta property="og:description" content="See today's stock market at a glance: a heatmap of the largest US stocks by sector, colored by today's move and sized by company value.">
+<meta property="og:url" content="https://SITE_URL/heatmap.html">
+<meta name="twitter:card" content="summary">
+<meta name="theme-color" content="#f4f6fb">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Crect width='24' height='24' rx='5' fill='%233e5bf2'/%3E%3Cpath d='M5 16 L10 11 L13 14 L19 7' stroke='white' stroke-width='2.2' fill='none' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap">
+<link rel="stylesheet" href="assets/site.css">
+</head>
+<body>
+<header>
+  <div class="wrap top">
+    <a class="brand" href="./"><svg width="24" height="24" viewBox="0 0 24 24" aria-hidden="true"><rect width="24" height="24" rx="5" fill="var(--accent)"/><path d="M5 16 L10 11 L13 14 L19 7" stroke="var(--bg)" stroke-width="2.2" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg>Ledgerline</a>
+    <form class="cmdbar" role="search" autocomplete="off"><input id="cmd" list="cmdlist" placeholder="Search a ticker or type a command" aria-label="Search a ticker or type a command (press / to focus, HELP for commands)"><kbd>/</kbd><datalist id="cmdlist"></datalist></form>
+    <div class="auth" id="auth-slot"></div>
+  </div>
+  <div class="wrap tabsrow"><nav aria-label="Site"><a href="./">Markets</a><a href="heatmap.html" aria-current="page">Heatmap</a><a href="watchlist.html">Watchlist</a><a href="portfolio.html">Portfolio</a><a href="compare.html">Compare</a><a href="calendar.html">Calendar</a><a href="tankers.html">Tankers</a><a href="notes.html">Notes</a></nav></div>
+  <div class="wrap"><div id="cmdhelp" class="cmdhelp" hidden>
+      <b>Commands</b>
+      <span><code>AAPL</code> open a stock</span><span><code>NEWS TSLA</code> stock news</span><span><code>CMP AAPL MSFT</code> compare</span><span><code>ALERT NVDA</code> set an alert</span>
+      <span><code>HEAT</code> heatmap</span><span><code>W</code> watchlist</span><span><code>P</code> portfolio</span><span><code>DIV</code> dividends</span><span><code>CAL</code> calendar</span><span><code>OIL</code> tanker map</span><span><code>N</code> notes</span>
+    </div></div>
+</header>
+
+<main class="wrap page">
+  <div class="page-head">
+    <div><h1>Market heatmap</h1><p class="sub">The largest US companies, grouped by sector. Green is up today, red is down. Click any tile to open the stock.</p></div>
+    <div class="seg" id="hm-tabs"><button type="button" data-f="stocks" aria-pressed="true">Stocks</button><button type="button" data-f="etf" aria-pressed="false">ETFs</button></div>
+  </div>
+  <section class="card">
+    <div id="heatmap" class="heatmap"></div>
+    <div class="hm-foot"><span class="note" id="hm-note"></span><span class="hm-scale"><i style="background:rgb(240,30,30)"></i>−3%<i style="background:rgb(150,60,60)"></i>0<i style="background:rgb(40,120,80)"></i><i style="background:rgb(10,180,60)"></i>+3%</span></div>
+  </section>
+  <div class="grid2">
+    <section class="card"><h2>Top gainers</h2><ul class="movers" id="gainers"></ul></section>
+    <section class="card"><h2>Top losers</h2><ul class="movers" id="losers"></ul></section>
+  </div>
+</main>
+
+<footer>
+  <div class="wrap">
+    <p>Prices come from public market feeds and refresh about every 30 minutes during market hours. Ledgerline is for general information only and is not investment advice.</p>
+  </div>
+</footer>
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.45.4/dist/umd/supabase.min.js"></script>
+<script src="assets/config.js"></script>
+<script src="assets/store.js"></script>
+<script src="assets/app.js"></script>
+<script src="assets/extra.js"></script>
+</body>
+</html>

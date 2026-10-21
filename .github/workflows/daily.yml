@@ -1,0 +1,32 @@
+name: Daily stock data
+
+on:
+  schedule:
+    - cron: "30 10 * * *"   # before the US open
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh
+  cancel-in-progress: false
+
+jobs:
+  daily:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python scripts/daily.py
+      - name: Commit changes
+        run: |
+          git add -A data
+          if git diff --cached --quiet; then echo "nothing to commit"; exit 0; fi
+          git config user.name "ledgerline-bot"
+          git config user.email "ledgerline-bot@users.noreply.github.com"
+          git commit -m "Daily stock data"
+          git pull --rebase
+          git push

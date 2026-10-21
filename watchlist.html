@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Stock Watchlist and Price Alerts | Ledgerline</title>
+<meta name="description" content="Follow stocks you don't own with mini price charts, and set price alerts for when a stock rises above, falls below or moves sharply.">
+<meta name="robots" content="index, follow">
+<link rel="canonical" href="https://SITE_URL/watchlist.html">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Stock Watchlist and Price Alerts | Ledgerline">
+<meta property="og:description" content="Follow stocks you don't own with mini price charts, and set price alerts for when a stock rises above, falls below or moves sharply.">
+<meta property="og:url" content="https://SITE_URL/watchlist.html">
+<meta name="twitter:card" content="summary">
+<meta name="theme-color" content="#f4f6fb">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Crect width='24' height='24' rx='5' fill='%233e5bf2'/%3E%3Cpath d='M5 16 L10 11 L13 14 L19 7' stroke='white' stroke-width='2.2' fill='none' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap">
+<link rel="stylesheet" href="assets/site.css">
+</head>
+<body>
+<header>
+  <div class="wrap top">
+    <a class="brand" href="./"><svg width="24" height="24" viewBox="0 0 24 24" aria-hidden="true"><rect width="24" height="24" rx="5" fill="var(--accent)"/><path d="M5 16 L10 11 L13 14 L19 7" stroke="var(--bg)" stroke-width="2.2" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg>Ledgerline</a>
+    <form class="cmdbar" role="search" autocomplete="off"><input id="cmd" list="cmdlist" placeholder="Search a ticker or type a command" aria-label="Search a ticker or type a command (press / to focus, HELP for commands)"><kbd>/</kbd><datalist id="cmdlist"></datalist></form>
+    <div class="auth" id="auth-slot"></div>
+  </div>
+  <div class="wrap tabsrow"><nav aria-label="Site"><a href="./">Markets</a><a href="heatmap.html">Heatmap</a><a href="watchlist.html" aria-current="page">Watchlist</a><a href="portfolio.html">Portfolio</a><a href="compare.html">Compare</a><a href="calendar.html">Calendar</a><a href="tankers.html">Tankers</a><a href="notes.html">Notes</a></nav></div>
+  <div class="wrap"><div id="cmdhelp" class="cmdhelp" hidden>
+      <b>Commands</b>
+      <span><code>AAPL</code> open a stock</span><span><code>NEWS TSLA</code> stock news</span><span><code>CMP AAPL MSFT</code> compare</span><span><code>ALERT NVDA</code> set an alert</span>
+      <span><code>HEAT</code> heatmap</span><span><code>W</code> watchlist</span><span><code>P</code> portfolio</span><span><code>DIV</code> dividends</span><span><code>CAL</code> calendar</span><span><code>OIL</code> tanker map</span><span><code>N</code> notes</span>
+    </div></div>
+</header>
+
+<main class="wrap page" id="watch-page">
+  <div class="page-head">
+    <div><h1>Watchlist</h1><p class="sub">Stocks you're following, with a month of price history at a glance.</p></div>
+    <form id="addwatch" class="inline-add"><input id="w-ticker" list="cmdlist" placeholder="Add ticker" aria-label="Ticker to watch" autocomplete="off"><button class="btn primary small" type="submit">Add</button></form>
+  </div>
+  <div class="status" id="w-status" role="status"></div>
+  <section class="card"><div id="wl"></div></section>
+  <section class="card" id="alerts">
+    <div class="card-head"><h2>Price alerts</h2><button class="btn small" type="button" id="notify">Turn on notifications</button></div>
+    <form id="addalert" class="addrow">
+      <input id="a-ticker" list="cmdlist" placeholder="Ticker" aria-label="Ticker" autocomplete="off" style="text-transform:uppercase">
+      <select id="a-kind" aria-label="Alert type"><option value="above">Rises above</option><option value="below">Falls below</option><option value="move">Moves more than %</option></select>
+      <input id="a-value" type="number" step="any" min="0" placeholder="Price, e.g. 200" aria-label="Alert value">
+      <button class="btn primary small" type="submit">Add alert</button>
+    </form>
+    <div id="al"></div>
+    <p class="note">Alerts are checked whenever you open Ledgerline, against prices that refresh every 30 minutes. With notifications on, your browser also shows a pop-up.</p>
+  </section>
+</main>
+
+<footer>
+  <div class="wrap">
+    <p>Prices come from public market feeds and refresh about every 30 minutes during market hours. Ledgerline is for general information only and is not investment advice.</p>
+  </div>
+</footer>
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.45.4/dist/umd/supabase.min.js"></script>
+<script src="assets/config.js"></script>
+<script src="assets/store.js"></script>
+<script src="assets/app.js"></script>
+<script src="assets/extra.js"></script>
+</body>
+</html>

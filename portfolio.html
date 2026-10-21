@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Ledgerline Portfolio Tracker | Free Stock Portfolio and Sector Allocation</title>
+<meta name="description" content="Track your stocks for free with Ledgerline: see your portfolio value, daily change, total gain and a sector allocation pie chart. No sign-up, your data stays in your browser.">
+<meta name="robots" content="index, follow">
+<link rel="canonical" href="https://SITE_URL/portfolio.html">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Ledgerline Portfolio Tracker | Free Stock Portfolio and Sector Allocation">
+<meta property="og:description" content="Track your stocks for free with Ledgerline: see your portfolio value, daily change, total gain and a sector allocation pie chart. No sign-up, your data stays in your browser.">
+<meta property="og:url" content="https://SITE_URL/portfolio.html">
+<meta name="twitter:card" content="summary">
+<meta name="theme-color" content="#f4f6fb">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Crect width='24' height='24' rx='5' fill='%233e5bf2'/%3E%3Cpath d='M5 16 L10 11 L13 14 L19 7' stroke='white' stroke-width='2.2' fill='none' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap">
+<link rel="stylesheet" href="assets/site.css">
+</head>
+<body>
+<header>
+  <div class="wrap top">
+    <a class="brand" href="./"><svg width="24" height="24" viewBox="0 0 24 24" aria-hidden="true"><rect width="24" height="24" rx="5" fill="var(--accent)"/><path d="M5 16 L10 11 L13 14 L19 7" stroke="var(--bg)" stroke-width="2.2" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg>Ledgerline</a>
+    <form class="cmdbar" role="search" autocomplete="off"><input id="cmd" list="cmdlist" placeholder="Search a ticker or type a command" aria-label="Search a ticker or type a command (press / to focus, HELP for commands)"><kbd>/</kbd><datalist id="cmdlist"></datalist></form>
+    <div class="auth" id="auth-slot"></div>
+  </div>
+  <div class="wrap tabsrow"><nav aria-label="Site"><a href="./">Markets</a><a href="heatmap.html">Heatmap</a><a href="watchlist.html">Watchlist</a><a href="portfolio.html" aria-current="page">Portfolio</a><a href="compare.html">Compare</a><a href="calendar.html">Calendar</a><a href="tankers.html">Tankers</a><a href="notes.html">Notes</a></nav></div>
+  <div class="wrap"><div id="cmdhelp" class="cmdhelp" hidden>
+      <b>Commands</b>
+      <span><code>AAPL</code> open a stock</span><span><code>NEWS TSLA</code> stock news</span><span><code>CMP AAPL MSFT</code> compare</span><span><code>ALERT NVDA</code> set an alert</span>
+      <span><code>HEAT</code> heatmap</span><span><code>W</code> watchlist</span><span><code>P</code> portfolio</span><span><code>DIV</code> dividends</span><span><code>CAL</code> calendar</span><span><code>OIL</code> tanker map</span><span><code>N</code> notes</span>
+    </div></div>
+</header>
+
+<main class="wrap page">
+  <section class="card hero">
+    <div class="hero-top">
+      <div>
+        <div class="k">Portfolio value</div>
+        <div class="big" id="p-val">$0.00</div>
+        <div class="moves"><span id="p-gain" class="move">$0.00</span> <span class="lbl">all time</span> <span id="p-day" class="move">$0.00</span> <span class="lbl">today</span></div>
+      </div>
+      <div class="range" id="chart-range"></div>
+    </div>
+    <div id="chart" class="valchart"></div>
+  </section>
+
+  <section class="card">
+    <div class="card-head">
+      <h2>Holdings</h2>
+      <button class="btn small" type="button" id="add-toggle" aria-expanded="false">+ Add stock</button>
+    </div>
+    <form id="addhold" class="addrow" hidden>
+      <input id="h-ticker" required maxlength="10" placeholder="Ticker" aria-label="Ticker" list="tickers" autocomplete="off">
+      <input id="h-shares" required type="number" step="any" min="0" placeholder="Shares" aria-label="Shares">
+      <input id="h-cost" type="number" step="any" min="0" placeholder="Avg cost (optional)" aria-label="Average cost per share">
+      <button class="btn primary small" type="submit">Add</button>
+      <button class="btn ghost small" type="button" id="add-cancel">Cancel</button>
+    </form>
+    <datalist id="tickers"></datalist>
+    <div class="status" id="hold-status" role="status"></div>
+    <div id="holdwrap"></div>
+  </section>
+
+  <section class="card">
+    <h2>Sector weights</h2>
+    <div id="sectors"></div>
+  </section>
+
+  <section class="card" id="div-card">
+    <h2 id="dividends-h">Dividends</h2>
+    <div id="dividends"><div class="empty">Loading your dividends...</div></div>
+  </section>
+
+  <section class="card">
+    <h2>News for your stocks</h2>
+    <ul class="news" id="mynews"></ul>
+  </section>
+  <p class="note" id="updated"></p>
+</main>
+
+<footer>
+  <div class="wrap">
+    <p>Prices come from public market feeds and refresh about every 30 minutes during market hours. Ledgerline is for general information only and is not investment advice.</p>
+  </div>
+</footer>
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.45.4/dist/umd/supabase.min.js"></script>
+<script src="assets/config.js"></script>
+<script src="assets/store.js"></script>
+<script src="assets/app.js"></script>
+<script src="assets/extra.js"></script>
+</body>
+</html>

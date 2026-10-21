@@ -1,0 +1,12 @@
+{
+  "note": "Economic dates and market holidays, kept by hand. Earnings and dividend dates come from data/stats.json.",
+  "events": [
+    {"date": "2026-10-28", "type": "Fed", "title": "FOMC rate decision", "detail": "Meeting Oct 27–28, statement 2:00 p.m. ET"},
+    {"date": "2026-11-06", "type": "Jobs", "title": "October jobs report", "detail": "Employment Situation, 8:30 a.m. ET"},
+    {"date": "2026-11-10", "type": "Inflation", "title": "October CPI (expected)", "detail": "Consumer Price Index, 8:30 a.m. ET"},
+    {"date": "2026-11-26", "type": "Holiday", "title": "Thanksgiving, markets closed", "detail": "Early 1:00 p.m. ET close on Nov 27"},
+    {"date": "2026-12-09", "type": "Fed", "title": "FOMC rate decision and projections", "detail": "Meeting Dec 8–9, statement 2:00 p.m. ET"},
+    {"date": "2026-12-25", "type": "Holiday", "title": "Christmas, markets closed", "detail": ""},
+    {"date": "2027-01-01", "type": "Holiday", "title": "New Year's Day, markets closed", "detail": ""}
+  ]
+}

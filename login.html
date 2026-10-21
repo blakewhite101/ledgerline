@@ -1,0 +1,129 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Sign in | Ledgerline</title>
+<meta name="description" content="Sign in or create a free Ledgerline account to keep your stock portfolio and notes on every device.">
+<meta name="robots" content="noindex, follow">
+<link rel="canonical" href="https://SITE_URL/login.html">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Ledgerline Notes | Investing Notes and Watchlist Ideas">
+<meta property="og:description" content="Keep quick investing notes with Ledgerline: stocks to research, reminders and ideas, saved privately in your browser.">
+<meta property="og:url" content="https://SITE_URL/login.html">
+<meta name="twitter:card" content="summary">
+<meta name="theme-color" content="#f4f6fb">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Crect width='24' height='24' rx='5' fill='%233e5bf2'/%3E%3Cpath d='M5 16 L10 11 L13 14 L19 7' stroke='white' stroke-width='2.2' fill='none' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap">
+<link rel="stylesheet" href="assets/site.css">
+</head>
+<body>
+<header>
+  <div class="wrap top">
+    <a class="brand" href="./"><svg width="24" height="24" viewBox="0 0 24 24" aria-hidden="true"><rect width="24" height="24" rx="5" fill="var(--accent)"/><path d="M5 16 L10 11 L13 14 L19 7" stroke="var(--bg)" stroke-width="2.2" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg>Ledgerline</a>
+    <form class="cmdbar" role="search" autocomplete="off"><input id="cmd" list="cmdlist" placeholder="Search a ticker or type a command" aria-label="Search a ticker or type a command (press / to focus, HELP for commands)"><kbd>/</kbd><datalist id="cmdlist"></datalist></form>
+    
+  </div>
+  <div class="wrap tabsrow"><nav aria-label="Site"><a href="./">Markets</a><a href="heatmap.html">Heatmap</a><a href="watchlist.html">Watchlist</a><a href="portfolio.html">Portfolio</a><a href="compare.html">Compare</a><a href="calendar.html">Calendar</a><a href="tankers.html">Tankers</a><a href="notes.html">Notes</a></nav></div>
+  <div class="wrap"><div id="cmdhelp" class="cmdhelp" hidden>
+      <b>Commands</b>
+      <span><code>AAPL</code> open a stock</span><span><code>NEWS TSLA</code> stock news</span><span><code>CMP AAPL MSFT</code> compare</span><span><code>ALERT NVDA</code> set an alert</span>
+      <span><code>HEAT</code> heatmap</span><span><code>W</code> watchlist</span><span><code>P</code> portfolio</span><span><code>DIV</code> dividends</span><span><code>CAL</code> calendar</span><span><code>OIL</code> tanker map</span><span><code>N</code> notes</span>
+    </div></div>
+</header>
+
+<main class="wrap page">
+  <section class="card authbox">
+    <h1 id="auth-title">Welcome back</h1>
+    <p class="sub" id="auth-sub">Sign in to see your portfolio and notes on any device.</p>
+    <div class="switch" role="group" aria-label="Account" style="margin-top:18px">
+      <button type="button" id="m-signin" aria-pressed="true">Sign in</button>
+      <button type="button" id="m-signup" aria-pressed="false">Create account</button>
+    </div>
+    <form id="authform">
+      <label class="f">Email <input id="email" type="email" autocomplete="email" required></label>
+      <label class="f">Password <input id="password" type="password" autocomplete="current-password" minlength="8" required></label>
+      <button class="btn primary" type="submit" id="submit">Sign in</button>
+      <button class="linkbtn" type="button" id="forgot">Forgot your password?</button>
+      <div class="status" id="auth-status" role="status"></div>
+    </form>
+  </section>
+</main>
+
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.45.4/dist/umd/supabase.min.js"></script>
+<script src="assets/config.js"></script>
+<script src="assets/store.js"></script>
+<script src="assets/extra.js"></script>
+<script>
+(function () {
+  var Store = window.LedgerlineStore, $ = function (id) { return document.getElementById(id); };
+  var params = new URLSearchParams(location.search);
+  var next = (params.get("next") || "portfolio.html").replace(/[^a-z.\-]/gi, "") || "portfolio.html";
+  var mode = params.get("mode") === "signup" ? "signup" : "signin";
+  var st = $("auth-status");
+  function say(msg, err) { st.textContent = msg; st.className = err ? "status err" : "status"; }
+  function setMode(m) {
+    mode = m;
+    $("m-signin").setAttribute("aria-pressed", String(m === "signin"));
+    $("m-signup").setAttribute("aria-pressed", String(m === "signup"));
+    $("auth-title").textContent = m === "signin" ? "Welcome back" : "Create your free account";
+    $("auth-sub").textContent = m === "signin" ? "Sign in to see your portfolio and notes on any device." : "Save your portfolio and notes to your account so they follow you to every device.";
+    $("submit").textContent = m === "signin" ? "Sign in" : "Create account";
+    $("password").autocomplete = m === "signin" ? "current-password" : "new-password";
+    $("forgot").hidden = m !== "signin";
+    say("");
+  }
+  $("m-signin").addEventListener("click", function () { setMode("signin"); });
+  $("m-signup").addEventListener("click", function () { setMode("signup"); });
+  setMode(mode);
+
+  if (!Store.cloud) { say("Accounts are not switched on for this site yet. You can still use Portfolio and Notes, saved in this browser.", true); $("submit").disabled = true; return; }
+  var sb = Store.client, recovering = /type=recovery/.test(location.hash);
+  sb.auth.onAuthStateChange(function (ev) { if (ev === "PASSWORD_RECOVERY") startReset(); });
+  function startReset() {
+    recovering = true; mode = "reset";
+    $("auth-title").textContent = "Choose a new password";
+    $("auth-sub").textContent = "Enter a new password for your account.";
+    $("email").closest("label").hidden = true; $("email").required = false;
+    document.querySelector(".switch").hidden = true; $("forgot").hidden = true;
+    $("password").autocomplete = "new-password"; $("submit").textContent = "Save new password";
+  }
+  if (recovering) startReset();
+  Store.ready().then(function (s) { if (s.user && !recovering) location.replace(next); });
+
+  $("authform").addEventListener("submit", async function (e) {
+    e.preventDefault();
+    var email = $("email").value.trim(), password = $("password").value;
+    $("submit").disabled = true;
+    try {
+      if (mode === "reset") {
+        var u = await sb.auth.updateUser({ password: password });
+        if (u.error) throw u.error;
+        location.replace(next); return;
+      }
+      if (mode === "signup") {
+        var r = await sb.auth.signUp({ email: email, password: password, options: { emailRedirectTo: location.href.replace(/login\.html.*$/, next) } });
+        if (r.error) throw r.error;
+        if (r.data.session) { location.replace(next); return; }
+        say("Check your email for a link to confirm your account, then sign in.");
+      } else {
+        var s = await sb.auth.signInWithPassword({ email: email, password: password });
+        if (s.error) throw s.error;
+        location.replace(next);
+      }
+    } catch (err) {
+      say(/invalid login/i.test(err.message) ? "That email and password don't match. Try again or reset your password." : err.message, true);
+    } finally { $("submit").disabled = false; }
+  });
+  $("forgot").addEventListener("click", async function () {
+    var email = $("email").value.trim();
+    if (!email) { say("Enter your email above first.", true); return; }
+    var r = await sb.auth.resetPasswordForEmail(email, { redirectTo: location.href.replace(/login\.html.*$/, "login.html") });
+    say(r.error ? r.error.message : "If that email has an account, a reset link is on its way.", !!r.error);
+  });
+})();
+</script>
+</body>
+</html>

@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Live Oil Tanker Map | Ledgerline</title>
+<meta name="description" content="Track oil and gas tankers around the world on a live map, with traffic through the Strait of Hormuz, the Red Sea, Malacca and other chokepoints.">
+<meta name="robots" content="index, follow">
+<link rel="canonical" href="https://SITE_URL/tankers.html">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Live Oil Tanker Map | Ledgerline">
+<meta property="og:description" content="Track oil and gas tankers around the world on a live map, with traffic through the Strait of Hormuz, the Red Sea, Malacca and other chokepoints.">
+<meta property="og:url" content="https://SITE_URL/tankers.html">
+<meta name="twitter:card" content="summary">
+<meta name="theme-color" content="#f4f6fb">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Crect width='24' height='24' rx='5' fill='%233e5bf2'/%3E%3Cpath d='M5 16 L10 11 L13 14 L19 7' stroke='white' stroke-width='2.2' fill='none' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap">
+<link rel="stylesheet" href="assets/site.css">
+</head>
+<body>
+<header>
+  <div class="wrap top">
+    <a class="brand" href="./"><svg width="24" height="24" viewBox="0 0 24 24" aria-hidden="true"><rect width="24" height="24" rx="5" fill="var(--accent)"/><path d="M5 16 L10 11 L13 14 L19 7" stroke="var(--bg)" stroke-width="2.2" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg>Ledgerline</a>
+    <form class="cmdbar" role="search" autocomplete="off"><input id="cmd" list="cmdlist" placeholder="Search a ticker or type a command" aria-label="Search a ticker or type a command (press / to focus, HELP for commands)"><kbd>/</kbd><datalist id="cmdlist"></datalist></form>
+    <div class="auth" id="auth-slot"></div>
+  </div>
+  <div class="wrap tabsrow"><nav aria-label="Site"><a href="./">Markets</a><a href="heatmap.html">Heatmap</a><a href="watchlist.html">Watchlist</a><a href="portfolio.html">Portfolio</a><a href="compare.html">Compare</a><a href="calendar.html">Calendar</a><a href="tankers.html" aria-current="page">Tankers</a><a href="notes.html">Notes</a></nav></div>
+  <div class="wrap"><div id="cmdhelp" class="cmdhelp" hidden>
+      <b>Commands</b>
+      <span><code>AAPL</code> open a stock</span><span><code>NEWS TSLA</code> stock news</span><span><code>CMP AAPL MSFT</code> compare</span><span><code>ALERT NVDA</code> set an alert</span>
+      <span><code>HEAT</code> heatmap</span><span><code>W</code> watchlist</span><span><code>P</code> portfolio</span><span><code>DIV</code> dividends</span><span><code>CAL</code> calendar</span><span><code>OIL</code> tanker map</span><span><code>N</code> notes</span>
+    </div></div>
+</header>
+
+<main class="wrap page" id="tanker-page">
+  <div class="page-head">
+    <div><h1>Oil tanker map</h1><p class="sub">Oil and gas tankers around the world, from ships' own location signals. Drag to move, scroll or pinch to zoom, and tap a ship for details.</p></div>
+  </div>
+  <div class="tk-layout">
+    <section class="card tk-mapcard">
+      <div class="tk-bar">
+        <div class="seg" id="tk-filter"><button type="button" data-f="all" aria-pressed="true">All</button><button type="button" data-f="moving" aria-pressed="false">Moving</button><button type="button" data-f="stopped" aria-pressed="false">Stopped</button></div>
+        <form id="tk-search-form" role="search"><input id="tk-search" placeholder="Find a ship or destination" aria-label="Find a ship by name or destination"></form>
+      </div>
+      <div class="tk-mapwrap">
+        <canvas id="tk-map" aria-label="World map of tanker positions"></canvas>
+        <div class="tk-zoom"><button type="button" id="tk-in" aria-label="Zoom in">+</button><button type="button" id="tk-out" aria-label="Zoom out">−</button></div>
+        <div class="tk-legend"><span><i style="background:var(--accent)"></i>Moving</span><span><i style="background:#f79009"></i>Anchored or docked</span></div>
+        <span id="tk-count"></span>
+      </div>
+      <div class="empty" id="tk-empty" hidden><strong>No ship positions yet</strong>Tanker positions appear once the site's tanker job has run. It refreshes every two hours.</div>
+      <div class="tk-regions"><div class="seg" id="tk-regions"></div></div>
+    </section>
+    <div>
+      <section class="card">
+        <div class="tk-stats">
+          <div><div class="k">Tankers tracked</div><div class="v" id="tk-total">—</div></div>
+          <div><div class="k">Updated</div><div class="v" id="tk-updated" style="font-size:16px;padding-top:4px">—</div></div>
+          <div><div class="k">Moving</div><div class="v" id="tk-moving">—</div></div>
+          <div><div class="k">Stopped</div><div class="v" id="tk-stopped">—</div></div>
+        </div>
+      </section>
+      <section class="card"><h2>Ship details</h2><div id="tk-info"></div></section>
+    </div>
+  </div>
+  <section class="card">
+    <h2>Chokepoints and busy waters</h2>
+    <div class="tablewrap" id="tk-table"></div>
+    <p class="note">A lot of stopped tankers in one area can mean congestion, a backlog at port, or ships waiting out a disruption. Click an area to zoom the map to it.</p>
+  </section>
+</main>
+
+<footer>
+  <div class="wrap">
+    <p>Ship positions come from the free <a href="https://aisstream.io" target="_blank" rel="noopener">AISStream</a> feed of coastal receivers and refresh every two hours, so ships far out at sea can show their last coastal position or be missing. Ships seen in the last 24 hours are shown. Map data from Natural Earth. Ledgerline is for general information only and is not investment advice.</p>
+  </div>
+</footer>
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.45.4/dist/umd/supabase.min.js"></script>
+<script src="assets/config.js"></script>
+<script src="assets/store.js"></script>
+<script src="assets/app.js"></script>
+<script src="assets/extra.js"></script>
+<script src="assets/tankers.js"></script>
+</body>
+</html>

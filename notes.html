@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Ledgerline Notes | Investing Notes and Watchlist Ideas</title>
+<meta name="description" content="Keep quick investing notes with Ledgerline: stocks to research, reminders and ideas, saved privately in your browser.">
+<meta name="robots" content="index, follow">
+<link rel="canonical" href="https://SITE_URL/notes.html">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Ledgerline Notes | Investing Notes and Watchlist Ideas">
+<meta property="og:description" content="Keep quick investing notes with Ledgerline: stocks to research, reminders and ideas, saved privately in your browser.">
+<meta property="og:url" content="https://SITE_URL/notes.html">
+<meta name="twitter:card" content="summary">
+<meta name="theme-color" content="#f4f6fb">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Crect width='24' height='24' rx='5' fill='%233e5bf2'/%3E%3Cpath d='M5 16 L10 11 L13 14 L19 7' stroke='white' stroke-width='2.2' fill='none' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap">
+<link rel="stylesheet" href="assets/site.css">
+</head>
+<body>
+<header>
+  <div class="wrap top">
+    <a class="brand" href="./"><svg width="24" height="24" viewBox="0 0 24 24" aria-hidden="true"><rect width="24" height="24" rx="5" fill="var(--accent)"/><path d="M5 16 L10 11 L13 14 L19 7" stroke="var(--bg)" stroke-width="2.2" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg>Ledgerline</a>
+    <form class="cmdbar" role="search" autocomplete="off"><input id="cmd" list="cmdlist" placeholder="Search a ticker or type a command" aria-label="Search a ticker or type a command (press / to focus, HELP for commands)"><kbd>/</kbd><datalist id="cmdlist"></datalist></form>
+    <div class="auth" id="auth-slot"></div>
+  </div>
+  <div class="wrap tabsrow"><nav aria-label="Site"><a href="./">Markets</a><a href="heatmap.html">Heatmap</a><a href="watchlist.html">Watchlist</a><a href="portfolio.html">Portfolio</a><a href="compare.html">Compare</a><a href="calendar.html">Calendar</a><a href="tankers.html">Tankers</a><a href="notes.html" aria-current="page">Notes</a></nav></div>
+  <div class="wrap"><div id="cmdhelp" class="cmdhelp" hidden>
+      <b>Commands</b>
+      <span><code>AAPL</code> open a stock</span><span><code>NEWS TSLA</code> stock news</span><span><code>CMP AAPL MSFT</code> compare</span><span><code>ALERT NVDA</code> set an alert</span>
+      <span><code>HEAT</code> heatmap</span><span><code>W</code> watchlist</span><span><code>P</code> portfolio</span><span><code>DIV</code> dividends</span><span><code>CAL</code> calendar</span><span><code>OIL</code> tanker map</span><span><code>N</code> notes</span>
+    </div></div>
+</header>
+
+<main class="wrap page">
+  <div class="page-head">
+    <div><h1>Notes</h1><p class="sub">Jot down stocks to research, reminders and ideas.</p></div>
+    <div class="privacy">🔒 Saved only in this browser. No account needed.</div>
+  </div>
+  <section class="card">
+    <form id="addnote" style="display:grid;gap:10px">
+      <label class="f" for="note-text">New note</label>
+      <textarea id="note-text" placeholder="A stock to look at, a reminder, an idea..."></textarea>
+      <div class="row"><button class="btn primary" type="submit">Save note</button><span class="status" id="note-status" role="status">Ctrl+Enter also saves</span></div>
+    </form>
+  </section>
+  <section class="card">
+    <div class="page-head" style="margin-bottom:14px"><h2 style="margin:0">All notes</h2><input id="note-search" type="search" placeholder="Search notes" aria-label="Search notes"></div>
+    <div id="notes"></div>
+  </section>
+</main>
+
+<footer>
+  <div class="wrap">
+    <p>Prices come from public market feeds and refresh about every 30 minutes during market hours. Ledgerline is for general information only and is not investment advice.</p>
+  </div>
+</footer>
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.45.4/dist/umd/supabase.min.js"></script>
+<script src="assets/config.js"></script>
+<script src="assets/store.js"></script>
+<script src="assets/app.js"></script>
+<script src="assets/extra.js"></script>
+</body>
+</html>
