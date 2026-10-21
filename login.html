@@ -64,6 +64,17 @@
   var mode = params.get("mode") === "signup" ? "signup" : "signin";
   var st = $("auth-status");
   function say(msg, err) { st.textContent = msg; st.className = err ? "status err" : "status"; }
+  // Offers to send the confirmation email again when someone signs in before confirming.
+  function sayUnconfirmed(email) {
+    say("Your email isn't confirmed yet. Open the email from Supabase (check Junk or Spam too) and click the link, then sign in. ", true);
+    var b = document.createElement("button"); b.type = "button"; b.className = "linkbtn"; b.textContent = "Send the email again";
+    b.addEventListener("click", async function () {
+      b.disabled = true;
+      var r = await Store.client.auth.resend({ type: "signup", email: email, options: { emailRedirectTo: location.href.replace(/login\.html.*$/, next) } });
+      say(r.error ? (/rate|seconds/i.test(r.error.message) ? "Please wait a minute before asking for another email." : r.error.message) : "Sent. Check your inbox (and Junk) for a new confirmation link.", !!r.error);
+    });
+    st.appendChild(b);
+  }
   function setMode(m) {
     mode = m;
     $("m-signin").setAttribute("aria-pressed", String(m === "signin"));
@@ -107,14 +118,15 @@
         var r = await sb.auth.signUp({ email: email, password: password, options: { emailRedirectTo: location.href.replace(/login\.html.*$/, next) } });
         if (r.error) throw r.error;
         if (r.data.session) { location.replace(next); return; }
-        say("Check your email for a link to confirm your account, then sign in.");
+        say("Almost done. We sent a confirmation link to " + email + ". Click it (check Junk or Spam if it's not in your inbox), then sign in.");
       } else {
         var s = await sb.auth.signInWithPassword({ email: email, password: password });
         if (s.error) throw s.error;
         location.replace(next);
       }
     } catch (err) {
-      say(/invalid login/i.test(err.message) ? "That email and password don't match. Try again or reset your password." : err.message, true);
+      if (/not confirmed/i.test(err.message)) sayUnconfirmed(email);
+      else say(/invalid login/i.test(err.message) ? "That email and password don't match. Try again or reset your password." : err.message, true);
     } finally { $("submit").disabled = false; }
   });
   $("forgot").addEventListener("click", async function () {
