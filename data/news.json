@@ -1,6 +1,36 @@
 {
-"updatedAt": "2026-10-22T15:59:50.992782+00:00",
+"updatedAt": "2026-10-22T16:34:13.147518+00:00",
 "news": [
+{
+"title": "Bill Ackman says 2027 will be an amazing year for stocks as wars, inflation ease",
+"url": "https://www.cnbc.com/2026/10/22/bill-ackman-talks-meta-and-markets-with-cnbc.html",
+"source": "CNBC",
+"date": "2026-10-22T16:33:26+00:00"
+},
+{
+"title": "Judge orders Trump to sit for deposition in BBC defamation lawsuit by Dec. 11: Reports",
+"url": "https://www.cnbc.com/2026/10/22/trump-deposition-bbc-defamation-lawsuit.html",
+"source": "CNBC",
+"date": "2026-10-22T16:32:13+00:00"
+},
+{
+"title": "Why governments pulled websites offline over the decades-old PHP programming language",
+"url": "https://www.cnbc.com/2026/10/22/php2shell-vulnerability-what-is-it-and-is-your-data-at-risk.html",
+"source": "CNBC",
+"date": "2026-10-22T16:19:34+00:00"
+},
+{
+"title": "Third-party evaluators found vulnerabilities in OpenAI monitoring system during test pilot",
+"url": "https://www.cnbc.com/2026/10/22/metr-redwood-research-open-ai-test.html",
+"source": "CNBC",
+"date": "2026-10-22T16:04:43+00:00"
+},
+{
+"title": "California's Proposition 40: What voters need to know about billionaire wealth tax battle",
+"url": "https://www.cnbc.com/2026/10/22/california-proposition-40-billionaire-tax-wealth.html",
+"source": "CNBC",
+"date": "2026-10-22T16:04:09+00:00"
+},
 {
 "title": "FIFA launches tender of 2030 men's World Cup U.S. media rights, plans to choose winner by end of year",
 "url": "https://www.cnbc.com/2026/10/22/fifa-launches-tender-of-us-world-cup-media-rights-for-2030.html",
@@ -12,12 +42,6 @@
 "url": "https://www.cnbc.com/2026/10/22/pepsico-taco-bell-beverage-deal.html",
 "source": "CNBC",
 "date": "2026-10-22T15:52:00+00:00"
-},
-{
-"title": "Bill Ackman says 2027 will be an amazing year for stocks as wars, inflation ease",
-"url": "https://www.cnbc.com/2026/10/22/bill-ackman-talks-meta-and-markets-with-cnbc.html",
-"source": "CNBC",
-"date": "2026-10-22T15:48:37+00:00"
 },
 {
 "title": "Meta stock sinks 6% as AI spend pushes free cash flow negative",
@@ -36,30 +60,6 @@
 "url": "https://www.cnbc.com/2026/10/22/oil-prices-today-wti-brent-saudi-arabia.html",
 "source": "CNBC",
 "date": "2026-10-22T15:36:13+00:00"
-},
-{
-"title": "CoreWeave\u2019s market confidence erodes as bond yields spike and stock sinks",
-"url": "https://www.cnbc.com/2026/10/21/coreweaves-market-confidence-erodes-as-bond-yields-spike-stock-sinks.html",
-"source": "CNBC",
-"date": "2026-10-22T15:35:55+00:00"
-},
-{
-"title": "Third-party evaluators find vulnerabilities in OpenAI monitoring system during test pilot",
-"url": "https://www.cnbc.com/2026/10/22/metr-redwood-research-open-ai-test.html",
-"source": "CNBC",
-"date": "2026-10-22T15:35:50+00:00"
-},
-{
-"title": "Pharma's 'information arms dealer' is up nearly 80% from an April low. Josh Brown sees more gains",
-"url": "https://www.cnbc.com/2026/10/22/pharmas-information-arms-dealer-is-up-nearly-80percent-from-an-april-low-josh-brown-sees-more-gains.html",
-"source": "CNBC",
-"date": "2026-10-22T15:33:22+00:00"
-},
-{
-"title": "Two big reasons Micron and other chip stocks are falling on Thursday",
-"url": "https://www.marketwatch.com/story/two-big-reasons-micron-and-other-chip-stocks-are-falling-on-thursday-312f1fb2?mod=mw_rss_topstories",
-"source": "MarketWatch",
-"date": "2026-10-22T15:33:00+00:00"
 }
 ]
 }
