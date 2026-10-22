@@ -1,65 +1,65 @@
 {
-"updatedAt": "2026-10-22T06:35:17.235042+00:00",
+"updatedAt": "2026-10-22T09:31:57.684242+00:00",
 "news": [
 {
-"title": "Stock futures fall as investors digest earnings from Meta and Tesla: Live updates",
+"title": "World's largest wealth fund posts $30 billion loss after bond market turbulence",
+"url": "https://www.cnbc.com/2026/10/22/norges-bank-nbim-wealth-fund-q3-results.html",
+"source": "CNBC",
+"date": "2026-10-22T09:25:09+00:00"
+},
+{
+"title": "Barclays to slash 5,000 jobs in AI efficiency push",
+"url": "https://www.cnbc.com/2026/10/22/barclays-ai-jobs-cuts.html",
+"source": "CNBC",
+"date": "2026-10-22T09:23:59+00:00"
+},
+{
+"title": "A top strategist has a warning for retail investors chasing the AI rally",
+"url": "https://www.marketwatch.com/story/top-hsbc-strategist-has-a-warning-for-retail-investors-chasing-the-ai-rally-e0318ada?mod=mw_rss_topstories",
+"source": "MarketWatch",
+"date": "2026-10-22T09:07:00+00:00"
+},
+{
+"title": "Why a JPMorgan strategist says the stock market\u2019s tailspin might have run its course",
+"url": "https://www.marketwatch.com/story/why-a-jpmorgan-strategist-says-the-stock-markets-tailspin-might-have-run-its-course-71571335?mod=mw_rss_topstories",
+"source": "MarketWatch",
+"date": "2026-10-22T09:04:00+00:00"
+},
+{
+"title": "Football legend Peyton Manning has invested millions in real estate, including 2 Denver homes",
+"url": "https://www.marketwatch.com/story/football-legend-peyton-manning-has-invested-millions-in-real-estate-including-2-denver-homes-2c4e355f?mod=mw_rss_topstories",
+"source": "MarketWatch",
+"date": "2026-10-22T09:03:00+00:00"
+},
+{
+"title": "Why a global bank is slashing thousands of jobs \u2014 and what the Fed says about AI replacing workers",
+"url": "https://www.marketwatch.com/story/why-a-global-bank-is-slashing-thousands-of-jobs-and-what-the-fed-says-about-ai-replacing-workers-9529b6ca?mod=mw_rss_topstories",
+"source": "MarketWatch",
+"date": "2026-10-22T08:47:00+00:00"
+},
+{
+"title": "Tesla\u2019s stock falls as Elon Musk leaves investors wanting more",
+"url": "https://www.marketwatch.com/story/teslas-stock-falls-as-elon-musk-leaves-investors-wanting-more-eb347f38?mod=mw_rss_topstories",
+"source": "MarketWatch",
+"date": "2026-10-22T08:46:00+00:00"
+},
+{
+"title": "Nasdaq futures down 1.8% as investors digest earnings from Meta and Tesla: Live updates",
 "url": "https://www.cnbc.com/2026/10/21/stock-market-today-live-updates.html",
 "source": "CNBC",
-"date": "2026-10-22T06:32:12+00:00"
+"date": "2026-10-22T08:31:13+00:00"
+},
+{
+"title": "Brent crude tops $112 on Middle East worries as U.S., Israel reportedly weigh fresh Iran strikes",
+"url": "https://www.cnbc.com/2026/10/22/oil-prices-today-wti-brent-saudi-arabia.html",
+"source": "CNBC",
+"date": "2026-10-22T08:24:42+00:00"
 },
 {
 "title": "U.S. Treasury yields may be poised for a breakout with Fed meeting as catalyst, says BMO",
 "url": "https://www.cnbc.com/2026/10/22/us-treasury-yields-breakout-fed-bmo-.html",
 "source": "CNBC",
 "date": "2026-10-22T06:11:40+00:00"
-},
-{
-"title": "Oil prices jump on Middle East worries as U.S., Israel reportedly weigh fresh Iran strikes",
-"url": "https://www.cnbc.com/2026/10/22/oil-prices-today-wti-brent-saudi-arabia.html",
-"source": "CNBC",
-"date": "2026-10-22T05:18:24+00:00"
-},
-{
-"title": "U.S. pulls diplomats from Saudi Arabia as it reportedly readies Iran strikes after midterms",
-"url": "https://www.cnbc.com/2026/10/22/us-iran-trump-hormuz-.html",
-"source": "CNBC",
-"date": "2026-10-22T04:35:54+00:00"
-},
-{
-"title": "China's stock market sinks into bear territory as CSI 300 extends 10-week rout",
-"url": "https://www.cnbc.com/2026/10/22/chinas-stock-market-csi-300-bear-market.html",
-"source": "CNBC",
-"date": "2026-10-22T04:02:18+00:00"
-},
-{
-"title": "My father-in-law, 81, sold his $75,000 home and paid off his daughter\u2019s $50,000 debt. What happens to him now?",
-"url": "https://www.marketwatch.com/story/my-father-in-law-81-sold-his-75-000-home-and-paid-off-his-daughters-50-000-debt-what-happens-to-him-now-60e8fc72?mod=mw_rss_topstories",
-"source": "MarketWatch",
-"date": "2026-10-22T03:15:00+00:00"
-},
-{
-"title": "Sovereign wealth funds' China and Hong Kong investments surge 190% after a bruising slump",
-"url": "https://www.cnbc.com/2026/10/22/sovereign-wealth-funds-china-hong-kong.html",
-"source": "CNBC",
-"date": "2026-10-22T02:20:50+00:00"
-},
-{
-"title": "Bank of Korea holds rates after President Lee calls for boosting housing supply",
-"url": "https://www.cnbc.com/2026/10/22/bok-rate-decision-seoul-property.html",
-"source": "CNBC",
-"date": "2026-10-22T02:18:29+00:00"
-},
-{
-"title": "Southeast Asia is hungry for AI \u2014 and the money isn't just in subscriptions",
-"url": "https://www.cnbc.com/2026/10/22/southeasaisa-singapore-bain-temasek-google-.html",
-"source": "CNBC",
-"date": "2026-10-22T02:01:48+00:00"
-},
-{
-"title": "The Social Security Administration wants more babies signed up for \u2018Trump accounts.\u2019 But there\u2019s still a catch.",
-"url": "https://www.marketwatch.com/story/the-social-security-administration-wants-more-babies-signed-up-for-trump-accounts-but-theres-still-a-catch-4096f16e?mod=mw_rss_topstories",
-"source": "MarketWatch",
-"date": "2026-10-22T01:50:00+00:00"
 }
 ]
 }
