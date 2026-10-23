@@ -1,17 +1,41 @@
 {
-"updatedAt": "2026-10-23T15:08:02.767342+00:00",
+"updatedAt": "2026-10-23T15:31:35.231615+00:00",
 "news": [
 {
-"title": "American Express is cutting 5% of its workforce to 'prepare for AI'",
-"url": "https://www.cnbc.com/2026/10/23/american-express-job-cuts.html",
+"title": "DOJ sues to block Alaska from certifying Senate race winner if Republican narrowly loses",
+"url": "https://www.cnbc.com/2026/10/23/alaska-senate-election-doj-lawsuit-sullivan.html",
 "source": "CNBC",
-"date": "2026-10-23T15:04:33+00:00"
+"date": "2026-10-23T15:28:23+00:00"
+},
+{
+"title": "AI's 'Black October':\u00a0Critical PHP flaws set off global security scramble",
+"url": "https://www.cnbc.com/2026/10/23/php-vulnerabilities-ai-cybersecurity.html",
+"source": "CNBC",
+"date": "2026-10-23T15:27:46+00:00"
 },
 {
 "title": "10-year Treasury yield drops back to 5% this week as investors seek cover from AI worries",
 "url": "https://www.cnbc.com/2026/10/23/bonds-yields-us-treasurys.html",
 "source": "CNBC",
-"date": "2026-10-23T15:04:09+00:00"
+"date": "2026-10-23T15:27:33+00:00"
+},
+{
+"title": "Two ex-FBI officials charged with allegedly lying about Hunter Biden probe: DOJ",
+"url": "https://www.cnbc.com/2026/10/23/fbi-hunter-biden-criminal-charges.html",
+"source": "CNBC",
+"date": "2026-10-23T15:27:09+00:00"
+},
+{
+"title": "Dow tumbles more than 500 points as Middle East tensions rise, selling broadens beyond tech: Live updates",
+"url": "https://www.cnbc.com/2026/10/22/stock-market-today-live-update.html",
+"source": "CNBC",
+"date": "2026-10-23T15:19:28+00:00"
+},
+{
+"title": "American Express is cutting 5% of its workforce to 'prepare for AI'",
+"url": "https://www.cnbc.com/2026/10/23/american-express-job-cuts.html",
+"source": "CNBC",
+"date": "2026-10-23T15:04:33+00:00"
 },
 {
 "title": "AI agents could disrupt bank deposits. Why Wall Street may be overreacting",
@@ -26,12 +50,6 @@
 "date": "2026-10-23T15:00:00+00:00"
 },
 {
-"title": "Dow tumbles more than 500 points as Middle East tensions rise, selling broadens beyond tech: Live updates",
-"url": "https://www.cnbc.com/2026/10/22/stock-market-today-live-update.html",
-"source": "CNBC",
-"date": "2026-10-23T14:57:47+00:00"
-},
-{
 "title": "Fewer people are flying as airfare soars. Here's why airlines aren't worried",
 "url": "https://www.cnbc.com/2026/10/23/airfare-airline-capacity.html",
 "source": "CNBC",
@@ -42,24 +60,6 @@
 "url": "https://www.marketwatch.com/story/this-hot-ai-fueled-stock-has-been-in-a-rut-it-just-beat-earnings-expectations-by-36-4a4188cb?mod=mw_rss_topstories",
 "source": "MarketWatch",
 "date": "2026-10-23T14:40:00+00:00"
-},
-{
-"title": "Moderna shares plunge after cancer vaccine data leaks \u2014 despite positive results",
-"url": "https://www.cnbc.com/2026/10/22/moderna-stock-cancer-vaccine-data-leak.html",
-"source": "CNBC",
-"date": "2026-10-23T14:36:34+00:00"
-},
-{
-"title": "Texas Senate race: New Talarico ad rips Elon Musk 'dark money' push",
-"url": "https://www.cnbc.com/2026/10/23/james-talarico-campaign-ad-elon-musk-texas-senate-election.html",
-"source": "CNBC",
-"date": "2026-10-23T14:34:37+00:00"
-},
-{
-"title": "Young Americans are giving up on cars. It\u2019s a path to financial freedom for some.",
-"url": "https://www.marketwatch.com/story/young-americans-are-giving-up-their-cars-its-a-path-to-financial-freedom-for-some-3cce491c?mod=mw_rss_topstories",
-"source": "MarketWatch",
-"date": "2026-10-23T14:29:00+00:00"
 }
 ]
 }
