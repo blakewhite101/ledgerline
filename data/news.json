@@ -1,11 +1,29 @@
 {
-"updatedAt": "2026-10-23T18:21:38.000213+00:00",
+"updatedAt": "2026-10-23T18:29:33.035975+00:00",
 "news": [
+{
+"title": "10-year Treasury yield drops back to 5% this week as investors seek cover from AI worries",
+"url": "https://www.cnbc.com/2026/10/23/bonds-yields-us-treasurys.html",
+"source": "CNBC",
+"date": "2026-10-23T18:24:49+00:00"
+},
+{
+"title": "U.S. dropping some Canada tariffs, Susan Collins says as trade war looms over Maine Senate race",
+"url": "https://www.cnbc.com/2026/10/23/trump-tariffs-canada-susan-collins.html",
+"source": "CNBC",
+"date": "2026-10-23T18:23:47+00:00"
+},
+{
+"title": "Brent crude oil tops $116, a six-month high, as tensions swell in the Middle East",
+"url": "https://www.cnbc.com/2026/10/23/oil-price-brent-wti-iran-war-saudi-arabia.html",
+"source": "CNBC",
+"date": "2026-10-23T18:23:35+00:00"
+},
 {
 "title": "Trump says he ordered DOJ suit to block Alaska Senate race certification if Republican loses: 'I'm the one that said 'do it''",
 "url": "https://www.cnbc.com/2026/10/23/alaska-senate-election-doj-lawsuit-sullivan.html",
 "source": "CNBC",
-"date": "2026-10-23T18:20:07+00:00"
+"date": "2026-10-23T18:21:54+00:00"
 },
 {
 "title": "Can Nvidia\u2019s stock become a safe haven as Wall Street rethinks the AI trade?",
@@ -20,6 +38,12 @@
 "date": "2026-10-23T18:09:56+00:00"
 },
 {
+"title": "Kinder Morgan, Energy Transfer and Williams could benefit from cheap natural gas",
+"url": "https://www.cnbc.com/2026/10/23/cheap-natural-gas-pipeline-stocks.html",
+"source": "CNBC",
+"date": "2026-10-23T18:07:34+00:00"
+},
+{
 "title": "Musk's SpaceX is still restricting Starlink in Ukraine and the toll is rising",
 "url": "https://www.cnbc.com/2026/10/23/ukraine-says-starlink-restrictions-remain-despite-trump-assurances.html",
 "source": "CNBC",
@@ -32,34 +56,10 @@
 "date": "2026-10-23T17:40:31+00:00"
 },
 {
-"title": "10-year Treasury yield drops back to 5% this week as investors seek cover from AI worries",
-"url": "https://www.cnbc.com/2026/10/23/bonds-yields-us-treasurys.html",
-"source": "CNBC",
-"date": "2026-10-23T17:26:23+00:00"
-},
-{
 "title": "Texas Senate race: New Talarico ad rips Elon Musk 'dark money' push",
 "url": "https://www.cnbc.com/2026/10/23/james-talarico-campaign-ad-elon-musk-texas-senate-election.html",
 "source": "CNBC",
 "date": "2026-10-23T17:26:12+00:00"
-},
-{
-"title": "Qatar deal to buy U.S. natural gas shows how Iran war has redrawn global energy markets",
-"url": "https://www.cnbc.com/2026/10/23/cheniere-qatar-energy-lng-natural-gas-iran-war-strait-hormuz.html",
-"source": "CNBC",
-"date": "2026-10-23T17:25:29+00:00"
-},
-{
-"title": "American Express is cutting 5% of its workforce to 'prepare for AI'",
-"url": "https://www.cnbc.com/2026/10/23/american-express-job-cuts.html",
-"source": "CNBC",
-"date": "2026-10-23T17:21:10+00:00"
-},
-{
-"title": "Doctors call Moderna, Merck cancer vaccine data a major advancement \u2014 despite Wall Street reaction",
-"url": "https://www.cnbc.com/2026/10/23/moderna-merck-cancer-vaccine-data.html",
-"source": "CNBC",
-"date": "2026-10-23T17:15:08+00:00"
 }
 ]
 }
