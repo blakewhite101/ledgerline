@@ -1,23 +1,41 @@
 {
-"updatedAt": "2026-10-26T21:30:16.201217+00:00",
+"updatedAt": "2026-10-26T21:58:19.192715+00:00",
 "news": [
 {
 "title": "DOJ charges ex-FBI Director James Comey in new case",
 "url": "https://www.cnbc.com/2026/10/26/james-comey-indictment-national-defense-doj-trump.html",
 "source": "CNBC",
-"date": "2026-10-26T21:29:53+00:00"
+"date": "2026-10-26T21:57:26+00:00"
+},
+{
+"title": "Over 40% of Americans are heading toward retirement \u2018blind\u2019 \u2014 with no plan",
+"url": "https://www.marketwatch.com/story/over-40-of-americans-are-heading-toward-retirement-blind-with-no-plan-e49b502f?mod=mw_rss_topstories",
+"source": "MarketWatch",
+"date": "2026-10-26T21:55:00+00:00"
+},
+{
+"title": "A possible DoorDash-Instacart deal is all about keeping up with Walmart and Amazon, analysts say",
+"url": "https://www.marketwatch.com/story/a-possible-doordash-instacart-deal-is-all-about-keeping-up-with-walmart-and-amazon-analysts-say-17049bb1?mod=mw_rss_topstories",
+"source": "MarketWatch",
+"date": "2026-10-26T21:46:00+00:00"
+},
+{
+"title": "Nvidia, AMD and Broadcom could buy Meta shares as part of $35 billion stock offering",
+"url": "https://www.marketwatch.com/story/nvidia-amd-and-broadcom-could-buy-meta-shares-as-part-of-35-billion-stock-offering-d816fec2?mod=mw_rss_topstories",
+"source": "MarketWatch",
+"date": "2026-10-26T21:44:00+00:00"
+},
+{
+"title": "Anthropic's IPO puts power in the hands of founders, giving everyday shareholders little voice",
+"url": "https://www.cnbc.com/2026/10/26/anthropic-ipo-founder-voting-control.html",
+"source": "CNBC",
+"date": "2026-10-26T21:41:26+00:00"
 },
 {
 "title": "JetBlue posts bigger loss on fuel costs, but CEO says margins improving",
 "url": "https://www.cnbc.com/2026/10/26/jetblue-jblu-3q-2026-earnings.html",
 "source": "CNBC",
 "date": "2026-10-26T21:18:07+00:00"
-},
-{
-"title": "A possible DoorDash-Instacart deal is all about keeping up with Walmart and Amazon, analysts say",
-"url": "https://www.marketwatch.com/story/a-possible-doordash-instacart-deal-is-all-about-keeping-up-with-walmart-and-amazon-analysts-say-17049bb1?mod=mw_rss_topstories",
-"source": "MarketWatch",
-"date": "2026-10-26T21:16:00+00:00"
 },
 {
 "title": "Why Lumentum\u2019s stock led the S&P 500 higher on Monday",
@@ -42,24 +60,6 @@
 "url": "https://www.cnbc.com/2026/10/26/microsoft-msft-voluntary-buyouts.html",
 "source": "CNBC",
 "date": "2026-10-26T20:44:50+00:00"
-},
-{
-"title": "CNBC Points Pro: How to book a round-the-world flight",
-"url": "https://www.cnbc.com/select/how-to-book-a-round-the-world-ticket-/",
-"source": "CNBC",
-"date": "2026-10-26T20:44:20+00:00"
-},
-{
-"title": "Nvidia, AMD and Broadcom could buy Meta shares as part of $35 billion stock offering",
-"url": "https://www.marketwatch.com/story/nvidia-amd-and-broadcom-could-buy-meta-shares-as-part-of-35-billion-stock-offering-d816fec2?mod=mw_rss_topstories",
-"source": "MarketWatch",
-"date": "2026-10-26T20:38:00+00:00"
-},
-{
-"title": "Meta, SpaceX, Anthropic stoke the AI funding frenzy. What it means for our stocks",
-"url": "https://www.cnbc.com/investingclub/2026/10/26/meta-spacex-anthropic-stoke-the-ai-funding-frenzy-what-it-means-for-our-stocks.html",
-"source": "CNBC",
-"date": "2026-10-26T20:26:26+00:00"
 }
 ]
 }
