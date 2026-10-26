@@ -1,65 +1,65 @@
 {
-"updatedAt": "2026-10-26T09:37:53.410695+00:00",
+"updatedAt": "2026-10-26T14:41:32.812226+00:00",
 "news": [
 {
-"title": "Stock futures climb as traders try to recover from the S&P 500's losing week: Live updates",
-"url": "https://www.cnbc.com/2026/10/25/stock-market-today-live-updates.html",
+"title": "Trump says he'll soon decide whether to \u2018make a deal\u2019 with Iran or \u2018finish it off'",
+"url": "https://www.cnbc.com/2026/10/26/us-iran-war-hormuz.html",
 "source": "CNBC",
-"date": "2026-10-26T09:17:03+00:00"
+"date": "2026-10-26T14:36:03+00:00"
+},
+{
+"title": "Anthropic IPO live updates: How the Amodei siblings, co-founders control voting shares",
+"url": "https://www.cnbc.com/2026/10/26/anthropic-ipo-live-updates-ai-s-1-filing.html",
+"source": "CNBC",
+"date": "2026-10-26T14:34:02+00:00"
+},
+{
+"title": "Alaska Senate: Peltola seeks quick dismissal of DOJ election lawsuit suit before midterm",
+"url": "https://www.cnbc.com/2026/10/26/alaska-senate-peltola-doj-lawsuit-election-sullivan.html",
+"source": "CNBC",
+"date": "2026-10-26T14:19:30+00:00"
+},
+{
+"title": "My wife has only $80,000 saved for retirement. I have $2.2 million. Am I wrong to be shocked?",
+"url": "https://www.marketwatch.com/story/my-wife-has-only-80-000-saved-for-retirement-i-have-2-2-million-am-i-wrong-to-be-shocked-3e27b490?mod=mw_rss_topstories",
+"source": "MarketWatch",
+"date": "2026-10-26T14:15:00+00:00"
+},
+{
+"title": "Brazilian stocks rocked as Lula wins presidential election, Bolsonaro reportedly refuses to concede",
+"url": "https://www.cnbc.com/2026/10/26/brazil-lula-win-presidential-election-runoff-vote.html",
+"source": "CNBC",
+"date": "2026-10-26T14:09:38+00:00"
+},
+{
+"title": "Meta announces $95 billion stock offering to fund AI expansion",
+"url": "https://www.cnbc.com/2026/10/26/meta-stock-offering-ai.html",
+"source": "CNBC",
+"date": "2026-10-26T14:05:36+00:00"
+},
+{
+"title": "Mortgage rates above 7% are the 'new normal'\u2014here's why",
+"url": "https://www.cnbc.com/make-it/2026/10/26/mortgage-rates-above-7percent-are-the-new-normalheres-why.html",
+"source": "CNBC",
+"date": "2026-10-26T14:00:01+00:00"
+},
+{
+"title": "The excitement around Moderna\u2019s cancer vaccine is cooling. Here\u2019s why.",
+"url": "https://www.marketwatch.com/story/the-excitement-around-modernas-cancer-vaccine-is-cooling-heres-why-994b205f?mod=mw_rss_topstories",
+"source": "MarketWatch",
+"date": "2026-10-26T13:50:00+00:00"
+},
+{
+"title": "Apple stock has become an anti-AI trade. Here\u2019s why",
+"url": "https://www.cnbc.com/2026/10/26/apple-stock-has-become-an-anti-ai-trade-heres-why.html",
+"source": "CNBC",
+"date": "2026-10-26T13:43:49+00:00"
 },
 {
 "title": "Neocloud stocks fall as Elon Musk says more than 200 of them face 'guppy-level death'",
 "url": "https://www.cnbc.com/2026/10/26/neocloud-stocks-today-coreweave-nebius-iren-elon-musk.html",
 "source": "CNBC",
-"date": "2026-10-26T09:07:53+00:00"
-},
-{
-"title": "Tennis star Taylor Fritz is selling his condo for $860,000\u2014with sweeping views of Miami",
-"url": "https://www.marketwatch.com/story/tennis-star-taylor-fritz-is-selling-his-condo-for-860-000with-sweeping-views-of-miami-2db8d086?mod=mw_rss_topstories",
-"source": "MarketWatch",
-"date": "2026-10-26T09:04:00+00:00"
-},
-{
-"title": "Support for semiconductor stocks could be as much as 15% lower than current levels, says Morgan Stanley",
-"url": "https://www.marketwatch.com/story/support-for-semiconductor-stocks-could-be-as-much-as-15-lower-than-current-levels-says-morgan-stanley-1f387f16?mod=mw_rss_topstories",
-"source": "MarketWatch",
-"date": "2026-10-26T09:02:00+00:00"
-},
-{
-"title": "Tyler Perry cuts price of $36 million Wyoming property on 37 acres, buys $30 million Puerto Rico home",
-"url": "https://www.marketwatch.com/story/tyler-perry-cuts-price-of-36-million-wyoming-property-on-37-acres-buys-30-million-puerto-rico-home-5eb819be?mod=mw_rss_topstories",
-"source": "MarketWatch",
-"date": "2026-10-26T09:01:00+00:00"
-},
-{
-"title": "Brazil's Lula wins historic presidential election; Bolsonaro reportedly refuses to concede",
-"url": "https://www.cnbc.com/2026/10/26/brazil-lula-win-presidential-election-runoff-vote.html",
-"source": "CNBC",
-"date": "2026-10-26T08:05:28+00:00"
-},
-{
-"title": "Defense tech investment boom sparks bubble warning as private equity pours in",
-"url": "https://www.cnbc.com/2026/10/26/defense-tech-private-equity-investment.html",
-"source": "CNBC",
-"date": "2026-10-26T06:00:01+00:00"
-},
-{
-"title": "\u2018Ticking time bomb\u2019: The world's pension funds face an ageing crisis",
-"url": "https://www.cnbc.com/2026/10/26/pension-funds-ageing-crisis-risk-investment.html",
-"source": "CNBC",
-"date": "2026-10-26T05:22:30+00:00"
-},
-{
-"title": "Oil slides over 2% as traders weigh Saudi attack risks, demand destruction",
-"url": "https://www.cnbc.com/2026/10/26/oil-prices-today-wti-brent.html",
-"source": "CNBC",
-"date": "2026-10-26T05:18:01+00:00"
-},
-{
-"title": "SoftBank reportedly plans $50 billion tech investment in aspiring 'AI nation' Malaysia",
-"url": "https://www.cnbc.com/2026/10/26/softbank-masayoshi-son-malaysia-ai-billions.html",
-"source": "CNBC",
-"date": "2026-10-26T04:56:16+00:00"
+"date": "2026-10-26T13:43:14+00:00"
 }
 ]
 }
