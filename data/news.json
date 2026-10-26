@@ -1,23 +1,41 @@
 {
-"updatedAt": "2026-10-26T21:01:07.460404+00:00",
+"updatedAt": "2026-10-26T21:30:16.201217+00:00",
 "news": [
+{
+"title": "DOJ charges ex-FBI Director James Comey in new case",
+"url": "https://www.cnbc.com/2026/10/26/james-comey-indictment-national-defense-doj-trump.html",
+"source": "CNBC",
+"date": "2026-10-26T21:29:53+00:00"
+},
 {
 "title": "JetBlue posts bigger loss on fuel costs, but CEO says margins improving",
 "url": "https://www.cnbc.com/2026/10/26/jetblue-jblu-3q-2026-earnings.html",
 "source": "CNBC",
-"date": "2026-10-26T20:50:24+00:00"
+"date": "2026-10-26T21:18:07+00:00"
+},
+{
+"title": "A possible DoorDash-Instacart deal is all about keeping up with Walmart and Amazon, analysts say",
+"url": "https://www.marketwatch.com/story/a-possible-doordash-instacart-deal-is-all-about-keeping-up-with-walmart-and-amazon-analysts-say-17049bb1?mod=mw_rss_topstories",
+"source": "MarketWatch",
+"date": "2026-10-26T21:16:00+00:00"
+},
+{
+"title": "Why Lumentum\u2019s stock led the S&P 500 higher on Monday",
+"url": "https://www.marketwatch.com/story/why-lumentums-stock-led-the-s-p-500-higher-on-monday-0dff125b?mod=mw_rss_topstories",
+"source": "MarketWatch",
+"date": "2026-10-26T21:04:00+00:00"
+},
+{
+"title": "Stocks making the biggest moves after hours: Whirlpool, JetBlue, Celestica & more",
+"url": "https://www.cnbc.com/2026/10/26/stocks-making-the-biggest-moves-after-hours-whr-jblu-cls.html",
+"source": "CNBC",
+"date": "2026-10-26T20:53:14+00:00"
 },
 {
 "title": "With the Anthropic IPO, the devil is in the details",
 "url": "https://www.marketwatch.com/story/with-the-anthropic-ipo-the-devil-is-in-the-details-239d571d?mod=mw_rss_topstories",
 "source": "MarketWatch",
 "date": "2026-10-26T20:50:00+00:00"
-},
-{
-"title": "Anthropic's IPO plans: Record losses, AI risks and growth potential outlined in the S-1",
-"url": "https://www.cnbc.com/2026/10/26/anthropic-ipo-live-updates-ai-s-1-filing.html",
-"source": "CNBC",
-"date": "2026-10-26T20:47:30+00:00"
 },
 {
 "title": "Microsoft offers voluntary buyouts to 60,000 employees as AI leads to efficiency push",
@@ -42,24 +60,6 @@
 "url": "https://www.cnbc.com/investingclub/2026/10/26/meta-spacex-anthropic-stoke-the-ai-funding-frenzy-what-it-means-for-our-stocks.html",
 "source": "CNBC",
 "date": "2026-10-26T20:26:26+00:00"
-},
-{
-"title": "We stopped helping our neighbors with free home repairs and our friendship cooled. Who\u2019s to blame?",
-"url": "https://www.marketwatch.com/story/we-stopped-helping-our-neighbors-with-free-home-repairs-and-our-friendship-cooled-whos-to-blame-d20b0720?mod=mw_rss_topstories",
-"source": "MarketWatch",
-"date": "2026-10-26T20:15:00+00:00"
-},
-{
-"title": "Stocks close higher as excitement over Anthropic IPO filing propels tech sector: Live updates",
-"url": "https://www.cnbc.com/2026/10/25/stock-market-today-live-updates.html",
-"source": "CNBC",
-"date": "2026-10-26T20:12:02+00:00"
-},
-{
-"title": "Sorry investors, but there\u2019s no such thing as an early \u2018Santa Claus rally.\u2019 Here\u2019s when the real gains typically happen.",
-"url": "https://www.marketwatch.com/story/sorry-investors-but-theres-no-such-thing-as-an-early-santa-claus-rally-heres-when-the-real-gains-typically-happen-7af822cd?mod=mw_rss_topstories",
-"source": "MarketWatch",
-"date": "2026-10-26T20:09:00+00:00"
 }
 ]
 }
