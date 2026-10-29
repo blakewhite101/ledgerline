@@ -1,23 +1,35 @@
 {
-"updatedAt": "2026-10-29T21:28:34.606900+00:00",
+"updatedAt": "2026-10-29T21:36:19.837196+00:00",
 "news": [
 {
-"title": "Starbucks sales fall short of expectations, but its U.S. turnaround continues to gain steam",
+"title": "Amazon posts negative free cash flow of $42.4 billion, holds 2026 capex unchanged",
+"url": "https://www.cnbc.com/2026/10/29/amazon-amzn-q3-earnings-report-2026.html",
+"source": "CNBC",
+"date": "2026-10-29T21:35:25+00:00"
+},
+{
+"title": "Rivian third-quarter earnings beat estimates as software revenue, R2 deliveries rise",
+"url": "https://www.cnbc.com/2026/10/29/rivian-rivn-earnings-q3-2026.html",
+"source": "CNBC",
+"date": "2026-10-29T21:34:04+00:00"
+},
+{
+"title": "\u2018Fancy cars hold no appeal\u2019: We have a 99% chance of outliving our life savings. Why not spend, spend, spend?",
+"url": "https://www.marketwatch.com/story/fancy-cars-hold-no-appeal-my-wife-and-i-have-a-99-chance-of-outliving-our-savings-why-dont-we-spend-it-all-932a2166?mod=mw_rss_topstories",
+"source": "MarketWatch",
+"date": "2026-10-29T21:31:00+00:00"
+},
+{
+"title": "Starbucks sales miss expectations, but its U.S. turnaround is gaining steam",
 "url": "https://www.cnbc.com/2026/10/29/starbucks-sbux-q4-2026-earnings.html",
 "source": "CNBC",
-"date": "2026-10-29T21:26:23+00:00"
+"date": "2026-10-29T21:29:59+00:00"
 },
 {
 "title": "Reddit shares sink on weak sales guidance and plans login requirement test as Google search traffic shrinks",
 "url": "https://www.cnbc.com/2026/10/29/reddit-rddt-q3-2026.html",
 "source": "CNBC",
 "date": "2026-10-29T21:22:50+00:00"
-},
-{
-"title": "Amazon posts negative free cash flow of $42.4 billion, holds 2026 capex unchanged",
-"url": "https://www.cnbc.com/2026/10/29/amazon-amzn-q3-earnings-report-2026.html",
-"source": "CNBC",
-"date": "2026-10-29T21:22:01+00:00"
 },
 {
 "title": "Stocks making the biggest moves after hours: Amazon, Intel, Twilio, Reddit, Roblox & more",
@@ -48,18 +60,6 @@
 "url": "https://www.marketwatch.com/story/you-cant-rely-on-the-s-p-500-as-much-as-you-may-think-a3ac0cb7?mod=mw_rss_topstories",
 "source": "MarketWatch",
 "date": "2026-10-29T20:39:00+00:00"
-},
-{
-"title": "Sandisk sees revenue nearly quintuple \u2014\u00a0and its stock is heading higher",
-"url": "https://www.marketwatch.com/story/sandisk-sees-revenue-nearly-quintuple-and-its-stock-is-heading-higher-b9318916?mod=mw_rss_topstories",
-"source": "MarketWatch",
-"date": "2026-10-29T20:39:00+00:00"
-},
-{
-"title": "Rivian third-quarter earnings beat estimates as software revenue, R2 deliveries rise",
-"url": "https://www.cnbc.com/2026/10/29/rivian-rivn-earnings-q3-2026.html",
-"source": "CNBC",
-"date": "2026-10-29T20:35:04+00:00"
 }
 ]
 }
