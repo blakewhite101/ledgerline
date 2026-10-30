@@ -1,6 +1,54 @@
 {
-"updatedAt": "2026-10-30T00:45:28.420109+00:00",
+"updatedAt": "2026-10-30T03:42:40.046890+00:00",
 "news": [
+{
+"title": "BOJ holds rates as underlying inflation aligns with 2% target for first time since 2013",
+"url": "https://www.cnbc.com/2026/10/30/boj-inflation-target-rates.html",
+"source": "CNBC",
+"date": "2026-10-30T03:38:24+00:00"
+},
+{
+"title": "Nasdaq-100 futures fall as Amazon and Intel swoon after earnings: Live updates",
+"url": "https://www.cnbc.com/2026/10/29/stock-market-today-live-updates.html",
+"source": "CNBC",
+"date": "2026-10-30T03:31:50+00:00"
+},
+{
+"title": "Israel faces weeks of coalition haggling as Netanyahu\u2019s party claims election 'stolen'",
+"url": "https://www.cnbc.com/2026/10/30/israel-election-netanyahu-eisenkot-coalition-talks-.html",
+"source": "CNBC",
+"date": "2026-10-30T03:28:10+00:00"
+},
+{
+"title": "What gave this city its \u2018best place to retire\u2019 crown? You can actually afford to live there.",
+"url": "https://www.marketwatch.com/story/what-gave-this-city-its-best-place-to-retire-crown-you-can-actually-afford-to-live-there-a06f8f4d?mod=mw_rss_topstories",
+"source": "MarketWatch",
+"date": "2026-10-30T03:16:00+00:00"
+},
+{
+"title": "Biggest-ever crypto hack impacts $6.3 billion as Binance works to contain fallout",
+"url": "https://www.cnbc.com/2026/10/29/circle-tether-freeze-funds-impacted-by-potential-binance-security-issue.html",
+"source": "CNBC",
+"date": "2026-10-30T03:01:44+00:00"
+},
+{
+"title": "Some Polymarket user funds stolen by hackers; exchange referring matter to U.K. authorities",
+"url": "https://www.cnbc.com/2026/10/29/polymarket-reports-outage-on-international-exchange-halts-trading.html",
+"source": "CNBC",
+"date": "2026-10-30T01:46:36+00:00"
+},
+{
+"title": "DOJ escalates Alaska Senate lawsuit over dueling Sullivan candidacies",
+"url": "https://www.cnbc.com/2026/10/29/alaska-senate-governor-investigation-sullivan-peltola-doj.html",
+"source": "CNBC",
+"date": "2026-10-30T01:34:32+00:00"
+},
+{
+"title": "Intel plunges on a major guidance miss. What went wrong \u2014 and how to proceed",
+"url": "https://www.cnbc.com/investingclub/2026/10/29/intel-plunges-on-a-major-guidance-miss-what-went-wrong-how-to-proceed.html",
+"source": "CNBC",
+"date": "2026-10-30T01:06:07+00:00"
+},
 {
 "title": "Intel stock plunges 21% as chipmaker blames PC slowdown for weak guidance",
 "url": "https://www.cnbc.com/2026/10/29/intel-intc-q3-earnings-report-2026-.html",
@@ -8,58 +56,10 @@
 "date": "2026-10-30T00:39:52+00:00"
 },
 {
-"title": "Nasdaq-100 futures fall as Amazon and Intel swoon after earnings: Live updates",
-"url": "https://www.cnbc.com/2026/10/29/stock-market-today-live-updates.html",
+"title": "Microsoft plans to raise $25 billion in debt as it pursues AI buildout",
+"url": "https://www.cnbc.com/2026/10/29/microsoft-25-billion-debt-offering.html",
 "source": "CNBC",
-"date": "2026-10-30T00:31:06+00:00"
-},
-{
-"title": "Reddit shares sink on weak sales guidance and plans login requirement test as Google search traffic shrinks",
-"url": "https://www.cnbc.com/2026/10/29/reddit-rddt-q3-2026.html",
-"source": "CNBC",
-"date": "2026-10-30T00:28:45+00:00"
-},
-{
-"title": "Amazon\u2019s stock drops \u2014\u00a0even in the face of a bold new cloud forecast",
-"url": "https://www.marketwatch.com/story/amazons-bold-cloud-forecast-isnt-enough-to-stave-off-a-stock-drop-ee23c1bb?mod=mw_rss_topstories",
-"source": "MarketWatch",
-"date": "2026-10-30T00:15:00+00:00"
-},
-{
-"title": "A Starbucks turnaround is brewing \u2014\u00a0but perhaps not quickly enough for investors",
-"url": "https://www.marketwatch.com/story/a-starbucks-turnaround-is-brewing-but-perhaps-not-quickly-enough-3b5f57ac?mod=mw_rss_topstories",
-"source": "MarketWatch",
-"date": "2026-10-30T00:14:00+00:00"
-},
-{
-"title": "Sandisk sees revenue nearly quintuple \u2014\u00a0and a stock split is on the way",
-"url": "https://www.marketwatch.com/story/sandisk-sees-revenue-nearly-quintuple-and-its-stock-is-heading-higher-b9318916?mod=mw_rss_topstories",
-"source": "MarketWatch",
-"date": "2026-10-30T00:06:00+00:00"
-},
-{
-"title": "Our church has a $1.5 million bequest earning 3.75% in a bank account. Is inflation eroding it?",
-"url": "https://www.marketwatch.com/story/there-may-be-better-investment-options-my-church-received-1-5-million-from-a-parishioner-is-3-75-interest-enough-5164d790?mod=mw_rss_topstories",
-"source": "MarketWatch",
-"date": "2026-10-30T00:05:00+00:00"
-},
-{
-"title": "Binance 'potential security issue' sees $2.54 billion frozen by the likes of Circle, Tether",
-"url": "https://www.cnbc.com/2026/10/29/circle-tether-freeze-funds-impacted-by-potential-binance-security-issue.html",
-"source": "CNBC",
-"date": "2026-10-29T23:56:02+00:00"
-},
-{
-"title": "DOJ escalates Alaska Senate lawsuit over dueling Sullivan candidacies",
-"url": "https://www.cnbc.com/2026/10/29/alaska-senate-governor-investigation-sullivan-peltola-doj.html",
-"source": "CNBC",
-"date": "2026-10-29T23:55:09+00:00"
-},
-{
-"title": "Friday's big stock stories: What\u2019s likely to move the market in the next trading session",
-"url": "https://www.cnbc.com/2026/10/29/fridays-big-stock-stories-whats-likely-to-move-the-market.html",
-"source": "CNBC",
-"date": "2026-10-29T23:28:33+00:00"
+"date": "2026-10-30T00:38:13+00:00"
 }
 ]
 }
