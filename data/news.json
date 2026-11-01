@@ -1,17 +1,41 @@
 {
-"updatedAt": "2026-11-01T09:39:38.961028+00:00",
+"updatedAt": "2026-11-01T12:42:24.281989+00:00",
 "news": [
+{
+"title": "Companies promised AI gains \u2014 here's how the payoff showed up in earnings",
+"url": "https://www.cnbc.com/2026/11/01/ai-investments-company-earnings.html",
+"source": "CNBC",
+"date": "2026-11-01T12:34:06+00:00"
+},
+{
+"title": "Top Wall Street analysts are bullish on these 3 stocks for the long haul",
+"url": "https://www.cnbc.com/2026/11/01/top-analysts-are-bullish-on-these-3-stocks-for-the-long-haul.html",
+"source": "CNBC",
+"date": "2026-11-01T12:33:53+00:00"
+},
+{
+"title": "Crocs stock jumped 25% after earnings. Here's why that might be just the beginning",
+"url": "https://www.cnbc.com/2026/11/01/crocs-stock-valuation-3q-earnings.html",
+"source": "CNBC",
+"date": "2026-11-01T12:32:09+00:00"
+},
+{
+"title": "The midterm election could reshape the muni bond market. Here\u2019s what investors need to know",
+"url": "https://www.cnbc.com/2026/11/01/election-municipal-bonds.html",
+"source": "CNBC",
+"date": "2026-11-01T12:30:48+00:00"
+},
 {
 "title": "Binance resumes withdrawals following $6.3 billion hack, says 90% of stolen user assets are covered",
 "url": "https://www.cnbc.com/2026/10/31/binance-hack-asset-coverage-withdrawals.html",
 "source": "CNBC",
-"date": "2026-11-01T09:03:47+00:00"
+"date": "2026-11-01T12:19:33+00:00"
 },
 {
-"title": "Companies promised AI gains\u2014 here's how the payoff showed up in earnings",
-"url": "https://www.cnbc.com/2026/11/01/ai-investments-company-earnings.html",
+"title": "Why AI is boosting Meta's ad business while hurting Google search",
+"url": "https://www.cnbc.com/2026/11/01/ai-meta-ads-google-search.html",
 "source": "CNBC",
-"date": "2026-11-01T06:00:01+00:00"
+"date": "2026-11-01T12:00:01+00:00"
 },
 {
 "title": "Trump defamation suit against Murdoch, WSJ over Epstein letter dismissed with prejudice",
@@ -36,30 +60,6 @@
 "url": "https://www.cnbc.com/2026/10/31/xai-naacp-clean-air-act-lawsuit-dismissal.html",
 "source": "CNBC",
 "date": "2026-10-31T20:12:37+00:00"
-},
-{
-"title": "OpenAI pares fundraising goal, now seeking up to $20 billion in latest round",
-"url": "https://www.cnbc.com/2026/10/31/openai-fundraising-20-billion-valuation.html",
-"source": "CNBC",
-"date": "2026-10-31T19:56:23+00:00"
-},
-{
-"title": "\u2018Showy jewelry and fancy cars hold no appeal\u2019: We have a 99% chance of outliving our life savings. Why not spend it all?",
-"url": "https://www.marketwatch.com/story/fancy-cars-hold-no-appeal-my-wife-and-i-have-a-99-chance-of-outliving-our-savings-why-dont-we-spend-it-all-932a2166?mod=mw_rss_topstories",
-"source": "MarketWatch",
-"date": "2026-10-31T19:30:00+00:00"
-},
-{
-"title": "G20 foreign ministers end Atlanta meeting without consensus on key issues",
-"url": "https://www.cnbc.com/2026/10/31/g20-foreign-ministers-end-atlanta-meeting-without-consensus-on-issues.html",
-"source": "CNBC",
-"date": "2026-10-31T19:04:28+00:00"
-},
-{
-"title": "This is where most people go wrong in their 30s and 40s",
-"url": "https://www.marketwatch.com/story/the-house-the-kids-college-and-the-raise-where-people-in-their-30s-and-40s-go-wrong-69ec6c90?mod=mw_rss_topstories",
-"source": "MarketWatch",
-"date": "2026-10-31T19:02:00+00:00"
 }
 ]
 }
