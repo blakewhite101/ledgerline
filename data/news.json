@@ -1,6 +1,12 @@
 {
-"updatedAt": "2026-11-02T15:49:11.169091+00:00",
+"updatedAt": "2026-11-02T15:55:07.801698+00:00",
 "news": [
+{
+"title": "Oracle files to sell $20 billion in new stock, bonds to finance AI buildout",
+"url": "https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html",
+"source": "CNBC",
+"date": "2026-11-02T15:53:04+00:00"
+},
 {
 "title": "My wife and I are in our 70s. Should we pay off our 2.5% mortgage or invest in a stock market driven by AI?",
 "url": "https://www.marketwatch.com/story/we-are-in-our-70s-should-we-pay-off-our-2-5-mortgage-or-build-up-our-savings-5a35e9c1?mod=mw_rss_topstories",
@@ -54,12 +60,6 @@
 "url": "https://www.cnbc.com/2026/11/02/fanatics-nhl-hometown-remix-jerseys.html",
 "source": "CNBC",
 "date": "2026-11-02T15:27:46+00:00"
-},
-{
-"title": "Anthropic reports $17 billion in Q3 revenue, purchase commitments of $895.4 billion in revised S-1",
-"url": "https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html",
-"source": "CNBC",
-"date": "2026-11-02T15:23:34+00:00"
 }
 ]
 }
