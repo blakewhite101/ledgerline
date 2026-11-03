@@ -1,29 +1,35 @@
 {
-"updatedAt": "2026-11-03T03:47:02.429440+00:00",
+"updatedAt": "2026-11-03T06:58:17.518292+00:00",
 "news": [
-{
-"title": "Australia hikes rates to 18-year high to fight inflation",
-"url": "https://www.cnbc.com/2026/11/03/australia-hikes-rates-18-year-high-finflation.html",
-"source": "CNBC",
-"date": "2026-11-03T03:46:20+00:00"
-},
 {
 "title": "North Korea denies links to Binance hack as researchers trace stolen billions",
 "url": "https://www.cnbc.com/2026/11/03/north-korea-binance-elliptic-chainalysis.html",
 "source": "CNBC",
-"date": "2026-11-03T03:27:18+00:00"
+"date": "2026-11-03T06:32:10+00:00"
 },
 {
 "title": "S&P 500 futures are flat as investors weigh Apple earnings; U.S. midterm elections loom: Live updates",
 "url": "https://www.cnbc.com/2026/11/02/stock-market-today-live-updates.html",
 "source": "CNBC",
-"date": "2026-11-03T03:03:55+00:00"
+"date": "2026-11-03T05:23:04+00:00"
+},
+{
+"title": "Lovable CEO says AI is collapsing barriers to starting a business",
+"url": "https://www.cnbc.com/video/2026/11/03/lovable-ceo-ai-vibe-coding.html",
+"source": "CNBC",
+"date": "2026-11-03T05:00:01+00:00"
 },
 {
 "title": "U.S. reportedly strikes Iran's Qeshm Island as Vance hopes for \u2018negotiated settlement\u2019 with Tehran",
 "url": "https://www.cnbc.com/2026/11/03/iran-us-vance-trump-strikes.html",
 "source": "CNBC",
-"date": "2026-11-03T02:51:33+00:00"
+"date": "2026-11-03T04:27:41+00:00"
+},
+{
+"title": "Australia hikes rates to 18-year high to fight inflation",
+"url": "https://www.cnbc.com/2026/11/03/australia-hikes-rates-18-year-high-finflation.html",
+"source": "CNBC",
+"date": "2026-11-03T03:46:20+00:00"
 },
 {
 "title": "OpenAI hires former U.S. Army Secretary Dan Driscoll for national security role",
@@ -54,12 +60,6 @@
 "url": "https://www.marketwatch.com/story/heres-why-palantirs-stock-is-down-despite-a-bombastic-quarter-42c9fdb8?mod=mw_rss_topstories",
 "source": "MarketWatch",
 "date": "2026-11-03T00:59:00+00:00"
-},
-{
-"title": "Apple\u2019s iPhone business is booming. Here\u2019s why the stock is falling anyway.",
-"url": "https://www.marketwatch.com/story/apples-iphone-business-is-booming-heres-why-the-stock-is-falling-anyway-07de9fff?mod=mw_rss_topstories",
-"source": "MarketWatch",
-"date": "2026-11-03T00:52:00+00:00"
 }
 ]
 }
