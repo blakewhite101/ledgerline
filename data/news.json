@@ -1,29 +1,47 @@
 {
-"updatedAt": "2026-11-04T00:53:29.990148+00:00",
+"updatedAt": "2026-11-04T03:47:01.992346+00:00",
 "news": [
 {
-"title": "Midterm elections 2026 live updates: Polls are closing as House, Senate control hang in balance",
+"title": "Stock futures fall on speculation Democrats to win big in midterms, slow data center buildout: Live updates",
+"url": "https://www.cnbc.com/2026/11/03/stock-market-today-live-updates.html",
+"source": "CNBC",
+"date": "2026-11-04T03:45:35+00:00"
+},
+{
+"title": "Midterm elections 2026 live updates: Democrats flip South Carolina Senate seat, projected to win House",
 "url": "https://www.cnbc.com/2026/11/03/midterm-elections-2026-live-updates.html",
 "source": "CNBC",
-"date": "2026-11-04T00:43:14+00:00"
+"date": "2026-11-04T03:44:19+00:00"
+},
+{
+"title": "Midterm elections could jolt stocks as Democrats look poised to sweep Congress",
+"url": "https://www.cnbc.com/2026/11/03/midterm-election-stock-market.html",
+"source": "CNBC",
+"date": "2026-11-04T03:38:08+00:00"
 },
 {
 "title": "Here\u2019s why AMD\u2019s stock is rising \u2014 and sending a confident message about the AI trade",
 "url": "https://www.marketwatch.com/story/heres-why-amds-stock-is-rising-and-sending-a-confident-message-about-the-ai-trade-11cb4d8a?mod=mw_rss_topstories",
 "source": "MarketWatch",
-"date": "2026-11-04T00:17:00+00:00"
+"date": "2026-11-04T01:16:00+00:00"
+},
+{
+"title": "Super Micro\u2019s stock pops as earnings show booming demand for AI servers",
+"url": "https://www.marketwatch.com/story/super-micros-stock-pops-as-earnings-show-booming-demand-for-ai-servers-2d179658?mod=mw_rss_topstories",
+"source": "MarketWatch",
+"date": "2026-11-04T01:12:00+00:00"
+},
+{
+"title": "Google responds to political backlash over removing search from schools that ban AI",
+"url": "https://www.cnbc.com/2026/11/03/google-responds-to-outrage-over-removing-search-in-schools-that-ban-ai.html",
+"source": "CNBC",
+"date": "2026-11-04T01:07:01+00:00"
 },
 {
 "title": "Wednesday's big stock stories: What\u2019s likely to move the market in the next trading session",
 "url": "https://www.cnbc.com/2026/11/03/wednesdays-big-stock-stories-whats-likely-to-move-the-market.html",
 "source": "CNBC",
 "date": "2026-11-04T00:12:42+00:00"
-},
-{
-"title": "Google responds to political backlash over removing search from schools that ban AI",
-"url": "https://www.cnbc.com/2026/11/03/google-responds-to-outrage-over-removing-search-in-schools-that-ban-ai.html",
-"source": "CNBC",
-"date": "2026-11-04T00:10:07+00:00"
 },
 {
 "title": "Jim Cramer sees signs of life in tech stocks \u2014 but not from the usual winners",
@@ -42,24 +60,6 @@
 "url": "https://www.cnbc.com/2026/11/03/strand-bookstore-ppp-loan-ron-wyden-wife-settlement.html",
 "source": "CNBC",
 "date": "2026-11-03T23:28:01+00:00"
-},
-{
-"title": "Trump DOJ sends target letters to Democrats in Alaska Senate criminal probe: Reports",
-"url": "https://www.cnbc.com/2026/11/03/trump-doj-election-lawsuits-monitors-2026-midterms.html",
-"source": "CNBC",
-"date": "2026-11-03T23:26:39+00:00"
-},
-{
-"title": "AMD stock jumps 8% on earnings as data center revenue nearly doubles",
-"url": "https://www.cnbc.com/2026/11/03/amd-amd-q3-earnings-report-2026-.html",
-"source": "CNBC",
-"date": "2026-11-03T23:04:37+00:00"
-},
-{
-"title": "What analysts are telling us while Apple\u2019s stock falls after earnings report",
-"url": "https://www.marketwatch.com/story/what-analysts-are-saying-as-apples-stock-falls-after-earnings-report-f0afa357?mod=mw_rss_topstories",
-"source": "MarketWatch",
-"date": "2026-11-03T22:48:00+00:00"
 }
 ]
 }
