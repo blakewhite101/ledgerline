@@ -1,6 +1,12 @@
 {
-"updatedAt": "2026-11-04T15:45:28.995608+00:00",
+"updatedAt": "2026-11-04T15:51:33.787889+00:00",
 "news": [
+{
+"title": "Jim Cramer's top 10 things to watch in the stock market Wednesday",
+"url": "https://www.cnbc.com/investingclub/2026/11/04/jim-cramers-top-10-things-to-watch-in-the-stock-market-wednesday.html",
+"source": "CNBC",
+"date": "2026-11-04T15:46:18+00:00"
+},
 {
 "title": "Kraft Heinz to divest its North American coffee business in $650 million deal",
 "url": "https://www.cnbc.com/2026/11/04/kraft-heinz-coffee-business-one-rock-deal.html",
@@ -54,12 +60,6 @@
 "url": "https://www.marketwatch.com/story/micron-and-other-chip-stocks-slip-as-election-results-strike-at-the-core-of-data-center-optimism-b55d19b3?mod=mw_rss_topstories",
 "source": "MarketWatch",
 "date": "2026-11-04T15:17:00+00:00"
-},
-{
-"title": "Datadog\u2019s stock extends steep declines in the wake of earnings",
-"url": "https://www.marketwatch.com/story/datadogs-stock-extends-steep-declines-in-the-wake-of-earnings-af412874?mod=mw_rss_topstories",
-"source": "MarketWatch",
-"date": "2026-11-04T15:16:00+00:00"
 }
 ]
 }
