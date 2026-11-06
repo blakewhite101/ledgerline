@@ -1,23 +1,53 @@
 {
-"updatedAt": "2026-11-06T18:46:38.562560+00:00",
+"updatedAt": "2026-11-06T19:24:01.403721+00:00",
 "news": [
 {
-"title": "San Francisco Fed President Daly says higher rates 'are likely to be needed' in inflation fight",
+"title": "Trump says Stephen Miller to replace Susie Wiles as White House chief of staff",
+"url": "https://www.cnbc.com/2026/11/06/trump-stephen-miller-wiles-chief-of-staff.html",
+"source": "CNBC",
+"date": "2026-11-06T19:23:53+00:00"
+},
+{
+"title": "Outside groups urge congressional Dems to target corporate interests over Trump",
+"url": "https://www.cnbc.com/2026/11/06/democrats-corporate-oversight-trump.html",
+"source": "CNBC",
+"date": "2026-11-06T19:18:32+00:00"
+},
+{
+"title": "Fake job interview scams like the one that hit Binance are getting more sophisticated. Here are the new signs to watch for",
+"url": "https://www.cnbc.com/make-it/2026/11/06/binance-hack-fake-job-interview-scams.html",
+"source": "CNBC",
+"date": "2026-11-06T19:09:56+00:00"
+},
+{
+"title": "Americans are on a 'treadmill of high inflation' and more rate hikes are likely, Fed's Daly says",
 "url": "https://www.cnbc.com/2026/11/06/fed-daly-interest-rates-inflation.html",
 "source": "CNBC",
-"date": "2026-11-06T18:42:45+00:00"
+"date": "2026-11-06T19:05:00+00:00"
+},
+{
+"title": "Data center double-down: Hassett says blue wave won't stop AI build-out",
+"url": "https://www.cnbc.com/2026/11/06/data-centers-ai-elections-hassett.html",
+"source": "CNBC",
+"date": "2026-11-06T18:54:22+00:00"
+},
+{
+"title": "Cybertruck\u2019s run comes to an end as Musk kills off pricey pet project",
+"url": "https://www.marketwatch.com/story/is-it-the-end-of-the-cybertruck-elon-musk-announces-factory-will-shift-production-3e33cafd?mod=mw_rss_topstories",
+"source": "MarketWatch",
+"date": "2026-11-06T18:54:00+00:00"
+},
+{
+"title": "My adviser recommended an annuity. Is it the right move in this market environment?",
+"url": "https://www.marketwatch.com/story/my-adviser-recommended-an-annuity-is-it-the-right-move-in-this-market-environment-00edbbf6?mod=mw_rss_topstories",
+"source": "MarketWatch",
+"date": "2026-11-06T18:53:00+00:00"
 },
 {
 "title": "Microsoft plans to use fewer neoclouds as AI buildout shows signs of strain",
 "url": "https://www.cnbc.com/2026/11/06/microsoft-moves-to-consolidate-its-relationships-with-neoclouds-in-ai.html",
 "source": "CNBC",
 "date": "2026-11-06T18:40:58+00:00"
-},
-{
-"title": "OpenAI, Arm and Qualcomm executives react to post-midterm AI sell-off",
-"url": "https://www.cnbc.com/2026/11/06/tech-executives-ai-data-center-selloff-midterms.html",
-"source": "CNBC",
-"date": "2026-11-06T18:35:08+00:00"
 },
 {
 "title": "AI crush is powering one stock to sky-high valuations",
@@ -30,36 +60,6 @@
 "url": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
 "source": "MarketWatch",
 "date": "2026-11-06T18:15:00+00:00"
-},
-{
-"title": "Mississippi Senate: Longshot Ty Pinkins says he aimed to spoil Hyde-Smith, boost Colom vote",
-"url": "https://www.cnbc.com/2026/11/06/mississippi-senate-ty-pinkins-colom-hyde-smith.html",
-"source": "CNBC",
-"date": "2026-11-06T18:03:13+00:00"
-},
-{
-"title": "You\u2019re fired! But you can keep the laptop and insurance. And here\u2019s $10,000.",
-"url": "https://www.marketwatch.com/story/layoffs-with-dignity-why-these-tech-firms-are-offering-free-laptops-and-linkedin-premium-28750d39?mod=mw_rss_topstories",
-"source": "MarketWatch",
-"date": "2026-11-06T18:03:00+00:00"
-},
-{
-"title": "I\u2019m 65 and worth more than $5.6 million. Can I afford a $200,000 camper?",
-"url": "https://www.marketwatch.com/story/im-65-and-worth-more-than-5-6-million-can-i-buy-a-200-000-camper-even-though-the-price-feels-crazy-high-55f668f8?mod=mw_rss_topstories",
-"source": "MarketWatch",
-"date": "2026-11-06T18:00:00+00:00"
-},
-{
-"title": "Nvidia, AMD and other chip stocks rebound \u2014 but is relief from the \u2018violent\u2019 selloff only temporary?",
-"url": "https://www.marketwatch.com/story/nvidia-amd-and-other-chip-stocks-rebound-is-the-violent-ai-selloff-over-8f7df533?mod=mw_rss_topstories",
-"source": "MarketWatch",
-"date": "2026-11-06T18:00:00+00:00"
-},
-{
-"title": "DraftKings\u2019 expensive bet on prediction markets is crushing its stock",
-"url": "https://www.marketwatch.com/story/draftkings-expensive-bet-on-prediction-markets-is-crushing-its-stock-277bee0d?mod=mw_rss_topstories",
-"source": "MarketWatch",
-"date": "2026-11-06T17:51:00+00:00"
 }
 ]
 }
