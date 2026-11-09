@@ -1,23 +1,53 @@
 {
-"updatedAt": "2026-11-09T07:18:22.410861+00:00",
+"updatedAt": "2026-11-09T09:59:54.300908+00:00",
 "news": [
 {
-"title": "Stock futures climb as investors eye AI trade, brace for more data and earnings: Live updates",
+"title": "Stock futures rise as investors eye AI trade, brace for more data and earnings: Live updates",
 "url": "https://www.cnbc.com/2026/11/08/stock-market-today-live-updates.html",
 "source": "CNBC",
-"date": "2026-11-09T07:17:45+00:00"
+"date": "2026-11-09T09:59:24+00:00"
+},
+{
+"title": "Nvidia stock falls 5% as scrutiny turns to Jensen Huang\u2019s relationship with alleged Chinese spy",
+"url": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-chinese-spy-investigation.html",
+"source": "CNBC",
+"date": "2026-11-09T09:37:44+00:00"
+},
+{
+"title": "How Wall Street is reacting to the news of Nvidia\u2019s investigation into Jensen Huang spy claims",
+"url": "https://www.marketwatch.com/story/how-wall-street-is-reacting-to-the-news-of-nvidias-jensen-huang-investigation-into-spy-claims-d8c839ab?mod=mw_rss_topstories",
+"source": "MarketWatch",
+"date": "2026-11-09T09:12:00+00:00"
 },
 {
 "title": "From supermarket fridges to passenger flights, a wave of threats is testing Europe's defenses",
 "url": "https://www.cnbc.com/2026/11/09/europe-fridge-hacks-bomb-threats-cyberattack.html",
 "source": "CNBC",
-"date": "2026-11-09T05:00:01+00:00"
+"date": "2026-11-09T08:59:16+00:00"
+},
+{
+"title": "Krakow mass shooting assailant dies in hospital, Polish police say",
+"url": "https://www.cnbc.com/2026/11/09/krakow-mass-shooting-assailant-dies.html",
+"source": "CNBC",
+"date": "2026-11-09T08:31:29+00:00"
+},
+{
+"title": "Goldman says 'the pieces are in place' for a shift in Treasury yields, global 10-years",
+"url": "https://www.cnbc.com/2026/11/09/goldman-treasury-yields-bonds.html",
+"source": "CNBC",
+"date": "2026-11-09T08:19:07+00:00"
 },
 {
 "title": "China wholesale inflation hits highest in more than four years as consumer measure slows",
 "url": "https://www.cnbc.com/2026/11/09/china-wholesale-inflation-rises-consumer.html",
 "source": "CNBC",
 "date": "2026-11-09T02:50:22+00:00"
+},
+{
+"title": "What Jensen Huang's affair with an accused Chinese spy means for Nvidia stock",
+"url": "https://www.cnbc.com/investingclub/2026/11/08/jim-cramer-what-jensen-huangs-affair-with-an-accused-chinese-spy-means-for-nvidia-stock.html",
+"source": "CNBC",
+"date": "2026-11-09T02:12:50+00:00"
 },
 {
 "title": "\u2018My life could be cut short\u2019: I\u2019m 55, married and have a brain tumor. Should I splash out on a $210,000 Porsche?",
@@ -30,36 +60,6 @@
 "url": "https://www.marketwatch.com/story/the-s-p-500-has-become-a-big-ai-bet-here-are-some-simple-alternatives-3c7574a4?mod=mw_rss_topstories",
 "source": "MarketWatch",
 "date": "2026-11-09T00:40:00+00:00"
-},
-{
-"title": "I\u2019m second-guessing my adviser: Is an annuity the right move in this market?",
-"url": "https://www.marketwatch.com/story/my-adviser-recommended-an-annuity-is-it-the-right-move-in-this-market-environment-00edbbf6?mod=mw_rss_topstories",
-"source": "MarketWatch",
-"date": "2026-11-09T00:30:00+00:00"
-},
-{
-"title": "\u2018It feels like he\u2019s quietly building a separate life\u2019: My husband inherited $500,000, but he refuses to spend it on our home",
-"url": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
-"source": "MarketWatch",
-"date": "2026-11-09T00:02:00+00:00"
-},
-{
-"title": "Funeral homes are finding new life hosting weddings and golf outings, as the traditional burial business dies out",
-"url": "https://www.marketwatch.com/story/funeral-homes-are-finding-new-life-hosting-weddings-and-golf-outings-as-the-traditional-burial-business-dies-out-15831d13?mod=mw_rss_topstories",
-"source": "MarketWatch",
-"date": "2026-11-09T00:00:00+00:00"
-},
-{
-"title": "How much in Roth conversions can you do in 2027 with the new tax brackets?",
-"url": "https://www.marketwatch.com/story/how-much-roth-conversion-can-you-do-in-2027-with-the-new-tax-brackets-a2f940c8?mod=mw_rss_topstories",
-"source": "MarketWatch",
-"date": "2026-11-08T23:50:00+00:00"
-},
-{
-"title": "I\u2019m 65 and worth more than $5.6 million. Can I afford a $200,000 camper?",
-"url": "https://www.marketwatch.com/story/im-65-and-worth-more-than-5-6-million-can-i-buy-a-200-000-camper-even-though-the-price-feels-crazy-high-55f668f8?mod=mw_rss_topstories",
-"source": "MarketWatch",
-"date": "2026-11-08T23:49:00+00:00"
 }
 ]
 }
