@@ -1,17 +1,41 @@
 {
-"updatedAt": "2026-11-11T07:03:04.394881+00:00",
+"updatedAt": "2026-11-11T09:54:46.656656+00:00",
 "news": [
+{
+"title": "American soldier arrested on suspicion of spying for Russia",
+"url": "https://www.cnbc.com/2026/11/11/us-army-soldier-russia-espionage-arrest.html",
+"source": "CNBC",
+"date": "2026-11-11T09:51:42+00:00"
+},
+{
+"title": "CoreWeave stock pops 13% after outlook raise eases AI slowdown concerns",
+"url": "https://www.cnbc.com/2026/11/11/coreweave-crwv-outlook-earnings-ai.html",
+"source": "CNBC",
+"date": "2026-11-11T09:34:18+00:00"
+},
+{
+"title": "Nasdaq futures jump as CoreWeave earnings beat drives global tech rebound: Live updates",
+"url": "https://www.cnbc.com/2026/11/10/stock-market-today-live-updates.html",
+"source": "CNBC",
+"date": "2026-11-11T09:19:37+00:00"
+},
+{
+"title": "CoreWeave\u2019s stock pops as new financing playbook eases debt concerns",
+"url": "https://www.marketwatch.com/story/coreweaves-stock-pops-as-new-financing-playbook-eases-debt-concerns-70241525?mod=mw_rss_topstories",
+"source": "MarketWatch",
+"date": "2026-11-11T09:11:00+00:00"
+},
+{
+"title": "Alibaba announces plans to list T-Head, its Nvidia chip rival",
+"url": "https://www.cnbc.com/2026/11/11/alibaba-pr.html",
+"source": "CNBC",
+"date": "2026-11-11T07:47:54+00:00"
+},
 {
 "title": "Singapore wants a bigger slice of the global gold market. Is it too late to the party?",
 "url": "https://www.cnbc.com/2026/11/11/singapore-gold-market-vault-storage.html",
 "source": "CNBC",
 "date": "2026-11-11T07:02:45+00:00"
-},
-{
-"title": "Stock futures rise as market tries to recover from Nvidia-led decline: Live updates",
-"url": "https://www.cnbc.com/2026/11/10/stock-market-today-live-updates.html",
-"source": "CNBC",
-"date": "2026-11-11T06:43:37+00:00"
 },
 {
 "title": "Investors pivot to defensive stocks as markets enter a \u2018state of alert\u2019",
@@ -32,34 +56,10 @@
 "date": "2026-11-11T04:06:47+00:00"
 },
 {
-"title": "Alibaba announces plans to list T-Head, its Nvidia chip rival",
-"url": "https://www.cnbc.com/2026/11/11/alibaba-pr.html",
-"source": "CNBC",
-"date": "2026-11-11T03:08:17+00:00"
-},
-{
 "title": "\u2018The thought of living to 100 terrifies me\u2019: Is Social Security a giant Ponzi scheme?",
 "url": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
 "source": "MarketWatch",
 "date": "2026-11-11T02:15:00+00:00"
-},
-{
-"title": "One reason Children\u2019s Place is filing for bankruptcy? Not enough children.",
-"url": "https://www.marketwatch.com/story/one-reason-the-childrens-place-is-going-bankrupt-not-enough-children-b275eab0?mod=mw_rss_topstories",
-"source": "MarketWatch",
-"date": "2026-11-11T01:54:00+00:00"
-},
-{
-"title": "Anthropic opens Australian retail IPO offering as AI scrutiny intensifies",
-"url": "https://www.cnbc.com/2026/11/11/anthopic-australian-retail-ipo-offering-.html",
-"source": "CNBC",
-"date": "2026-11-11T01:52:56+00:00"
-},
-{
-"title": "CoreWeave\u2019s stock pops as new financing playbook eases debt concerns",
-"url": "https://www.marketwatch.com/story/coreweaves-stock-pops-as-new-financing-playbook-eases-debt-concerns-70241525?mod=mw_rss_topstories",
-"source": "MarketWatch",
-"date": "2026-11-11T01:12:00+00:00"
 }
 ]
 }
