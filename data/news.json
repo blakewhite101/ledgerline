@@ -1,11 +1,47 @@
 {
-"updatedAt": "2026-11-12T21:14:56.018171+00:00",
+"updatedAt": "2026-11-12T21:42:21.298036+00:00",
 "news": [
 {
-"title": "Nasdaq Composite slides as Nvidia shares tumble on Jensen Huang\u2019s exit; oil prices jump: Live updates",
+"title": "Microsoft outage hits Outlook. AWS and Google users also report issues",
+"url": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
+"source": "CNBC",
+"date": "2026-11-12T21:41:39+00:00"
+},
+{
+"title": "Cerebras surges 18% after beating on quarterly revenue and announcing Microsoft deal",
+"url": "https://www.cnbc.com/2026/11/12/cerebras-systems-cbrs-q3-earnings-report-2026.html",
+"source": "CNBC",
+"date": "2026-11-12T21:33:44+00:00"
+},
+{
+"title": "Nasdaq Composite slides as Nvidia shares tumble on Jensen Huang\u2019s exit; oil prices jump",
 "url": "https://www.cnbc.com/2026/11/11/stock-market-today-live-updates.html",
 "source": "CNBC",
-"date": "2026-11-12T21:11:11+00:00"
+"date": "2026-11-12T21:30:14+00:00"
+},
+{
+"title": "I inherited $1.4 million from my father. Am I wrong to ask my husband of 25 years for a postnuptial agreement?",
+"url": "https://www.marketwatch.com/story/i-inherited-1-4-million-from-my-father-am-i-wrong-to-ask-my-husband-of-25-years-for-a-postnuptial-agreement-b739c51d?mod=mw_rss_topstories",
+"source": "MarketWatch",
+"date": "2026-11-12T21:30:00+00:00"
+},
+{
+"title": "Cisco beats on earnings, says AI infrastructure revenue will double this fiscal year",
+"url": "https://www.cnbc.com/2026/11/12/cisco-csco-q1-2027-earnings.html",
+"source": "CNBC",
+"date": "2026-11-12T21:20:35+00:00"
+},
+{
+"title": "Nvidia stock closes down over 4% after CEO Jensen Huang announces resignation",
+"url": "https://www.cnbc.com/2026/11/12/nvidia-nvda-jensen-huang-second-affair.html",
+"source": "CNBC",
+"date": "2026-11-12T21:17:21+00:00"
+},
+{
+"title": "Don't major on minors: Why a great flat-rate card is the best way to optimize rewards",
+"url": "https://www.cnbc.com/select/why-you-need-a-2-percent-cash-back-card/",
+"source": "CNBC",
+"date": "2026-11-12T21:14:50+00:00"
 },
 {
 "title": "The S&P 500 is shrugging off Nvidia\u2019s selloff this week. Here\u2019s what\u2019s keeping the rest of the market afloat.",
@@ -14,52 +50,16 @@
 "date": "2026-11-12T21:08:00+00:00"
 },
 {
-"title": "Nvidia stock closes down over 4% after CEO Jensen Huang announces resignation",
-"url": "https://www.cnbc.com/2026/11/12/nvidia-nvda-jensen-huang-second-affair.html",
-"source": "CNBC",
-"date": "2026-11-12T21:05:32+00:00"
-},
-{
 "title": "Stocks could be in for a rude awakening if the Fed hikes rates more than expected",
 "url": "https://www.cnbc.com/2026/11/12/stocks-could-be-in-for-a-rude-awakening-if-the-fed-hikes-rates-more-than-expected.html",
 "source": "CNBC",
 "date": "2026-11-12T21:00:10+00:00"
 },
 {
-"title": "Microsoft outage hits Outlook. AWS and Google users also report issues",
-"url": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
-"source": "CNBC",
-"date": "2026-11-12T20:57:54+00:00"
-},
-{
 "title": "The bond market now has an even bigger fear than AI fallout",
 "url": "https://www.marketwatch.com/story/the-bond-market-now-has-an-even-bigger-fear-than-the-ai-fallout-b6401b54?mod=mw_rss_topstories",
 "source": "MarketWatch",
 "date": "2026-11-12T20:44:00+00:00"
-},
-{
-"title": "Alice Huang tied to Nvidia\u2019s biggest Chinese competitor",
-"url": "https://www.cnbc.com/2026/11/12/alice-huang-jensen-huang-nvidia-huawei.html",
-"source": "CNBC",
-"date": "2026-11-12T20:34:54+00:00"
-},
-{
-"title": "Trump says \u2018we don\u2019t need a deal with Iran\u2019",
-"url": "https://www.cnbc.com/2026/11/12/trump-iran-deal-hormuz-strait.html",
-"source": "CNBC",
-"date": "2026-11-12T20:34:31+00:00"
-},
-{
-"title": "Jensen Huang's exit from Nvidia raises critical questions about the future of AI",
-"url": "https://www.cnbc.com/2026/11/12/jensen-huangs-exit-from-nvidia-raises-questions-about-future-of-ai.html",
-"source": "CNBC",
-"date": "2026-11-12T20:32:21+00:00"
-},
-{
-"title": "United Airlines won\u2019t let AI agents book your flight. Expert says you shouldn't let a bot do that for you, anyway",
-"url": "https://www.cnbc.com/make-it/2026/11/12/ai-agents-human-in-loop.html",
-"source": "CNBC",
-"date": "2026-11-12T20:24:59+00:00"
 }
 ]
 }
