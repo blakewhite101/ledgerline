@@ -1,6 +1,48 @@
 {
-"updatedAt": "2026-11-13T03:49:47.153749+00:00",
+"updatedAt": "2026-11-13T07:05:34.137527+00:00",
 "news": [
+{
+"title": "Widespread Microsoft outage takes down Outlook and other 365 services",
+"url": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
+"source": "CNBC",
+"date": "2026-11-13T06:42:27+00:00"
+},
+{
+"title": "Why Singapore keeps turning up in the fight over Nvidia chips and China",
+"url": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-alice-spy-megaspeed-.html",
+"source": "CNBC",
+"date": "2026-11-13T06:34:07+00:00"
+},
+{
+"title": "Stock futures edge lower after markets slide amid Nvidia woes: Live updates",
+"url": "https://www.cnbc.com/2026/11/12/stock-market-today-live-updates.html",
+"source": "CNBC",
+"date": "2026-11-13T06:31:37+00:00"
+},
+{
+"title": "Nvidia on track for longest weekly losing streak since 2012 as market value sinks by $1.6 trillion",
+"url": "https://www.cnbc.com/2026/11/13/nvidia-stock-jensen-affair-ai.html",
+"source": "CNBC",
+"date": "2026-11-13T05:51:34+00:00"
+},
+{
+"title": "\u2018The thought of living to 100 terrifies me\u2019: Is Social Security a giant Ponzi scheme?",
+"url": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
+"source": "MarketWatch",
+"date": "2026-11-13T04:46:00+00:00"
+},
+{
+"title": "Nvidia: Ex-prosecutor Joon Kim and Wachtell, Lipton bring big track record to investigation",
+"url": "https://www.cnbc.com/2026/11/12/nvidia-jensen-huang-joon-kim-wachtell-china-spy.html",
+"source": "CNBC",
+"date": "2026-11-13T04:07:44+00:00"
+},
+{
+"title": "As Nvidia reels from Huang's affairs, who stands to gain?",
+"url": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-affairs-amd-broadcom-tsmc.html",
+"source": "CNBC",
+"date": "2026-11-13T03:59:40+00:00"
+},
 {
 "title": "The best CD rates of November 2026: Earn up to 5.05% APY",
 "url": "https://www.cnbc.com/select/best-certificates-of-deposits/",
@@ -8,58 +50,16 @@
 "date": "2026-11-13T03:47:35+00:00"
 },
 {
+"title": "Chris Van Hollen announces run for U.S. Senate majority leader, challenging Schumer",
+"url": "https://www.cnbc.com/2026/11/13/van-hollen-schumer-us-senate-majority-leader.html",
+"source": "CNBC",
+"date": "2026-11-13T02:59:38+00:00"
+},
+{
 "title": "Cerebras surges 17% after beating on quarterly revenue and announcing Microsoft deal",
 "url": "https://www.cnbc.com/2026/11/12/cerebras-systems-cbrs-q3-earnings-report-2026.html",
 "source": "CNBC",
 "date": "2026-11-13T02:43:26+00:00"
-},
-{
-"title": "Nvidia live updates: Trump calls Huang saga a 'horrible thing' and 'so sad to see'",
-"url": "https://www.cnbc.com/2026/11/12/nvidia-jensen-huang-ceo-live-updates.html",
-"source": "CNBC",
-"date": "2026-11-13T02:32:05+00:00"
-},
-{
-"title": "Stock futures rise after market dips amid Nvidia woes: Live updates",
-"url": "https://www.cnbc.com/2026/11/12/stock-market-today-live-updates.html",
-"source": "CNBC",
-"date": "2026-11-13T02:29:27+00:00"
-},
-{
-"title": "The world's super-rich are piling into alternative investments. Here's why",
-"url": "https://www.cnbc.com/2026/11/12/rich-wealth-alternative-assets-.html",
-"source": "CNBC",
-"date": "2026-11-13T02:25:02+00:00"
-},
-{
-"title": "Cramer says Jensen Huang betrayed Nvidia shareholders. How to pick up the pieces",
-"url": "https://www.cnbc.com/2026/11/12/nvidia-jensen-huang-exit-cramer.html",
-"source": "CNBC",
-"date": "2026-11-12T23:14:56+00:00"
-},
-{
-"title": "Analysis: Nvidia\u2019s leadership crisis tests the chipmaker\u2019s role as the \u2018central bank of AI\u2019",
-"url": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-ai-financial-system-risk.html",
-"source": "CNBC",
-"date": "2026-11-12T23:08:50+00:00"
-},
-{
-"title": "Who can replace Jensen Huang as Nvidia CEO? These four names are buzzing in AI circles.",
-"url": "https://www.marketwatch.com/story/who-can-replace-jensen-huang-as-nvidia-ceo-these-four-names-are-buzzing-in-ai-circles-66c31ec2?mod=mw_rss_topstories",
-"source": "MarketWatch",
-"date": "2026-11-12T22:57:00+00:00"
-},
-{
-"title": "Stocks making the biggest moves Thursday: Cerebras, Cisco, Applied Materials & more",
-"url": "https://www.cnbc.com/2026/11/12/stocks-moving-the-most-today-live-updates.html",
-"source": "CNBC",
-"date": "2026-11-12T22:51:48+00:00"
-},
-{
-"title": "Alice Huang tied to Nvidia\u2019s biggest Chinese competitor",
-"url": "https://www.cnbc.com/2026/11/12/alice-huang-jensen-huang-nvidia-huawei.html",
-"source": "CNBC",
-"date": "2026-11-12T22:47:28+00:00"
 }
 ]
 }
