@@ -1,17 +1,35 @@
 {
-"updatedAt": "2026-11-14T06:53:05.773324+00:00",
+"updatedAt": "2026-11-14T09:41:33.302856+00:00",
 "news": [
+{
+"title": "U.S. flights resume after FAA ground stop, but travel chaos continues",
+"url": "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html",
+"source": "CNBC",
+"date": "2026-11-14T09:26:23+00:00"
+},
+{
+"title": "China, US discuss tariffs, farm trade ahead of Xi-Trump meeting",
+"url": "https://www.cnbc.com/2026/11/14/china-us-tariffs-xi-trump-meeting.html",
+"source": "CNBC",
+"date": "2026-11-14T08:16:44+00:00"
+},
+{
+"title": "Microsoft apologizes for massive outage that took down Outlook and other 365 services",
+"url": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
+"source": "CNBC",
+"date": "2026-11-14T08:11:28+00:00"
+},
+{
+"title": "Analysis: Companies love a \u2018rockstar\u2019 CEO. Until they depend on one",
+"url": "https://www.cnbc.com/2026/11/14/nvidia-jensen-huang-ceo-succession-risk.html",
+"source": "CNBC",
+"date": "2026-11-14T07:08:45+00:00"
+},
 {
 "title": "Ecuador wants to monetize its biodiversity \u2014 while still drilling for oil",
 "url": "https://www.cnbc.com/2026/11/14/ecuador-biodiversity-green-finance-oil.html",
 "source": "CNBC",
 "date": "2026-11-14T06:00:01+00:00"
-},
-{
-"title": "FAA lifts ground stop after more than four hours, but flight cancellations will stretch into the weekend",
-"url": "https://www.cnbc.com/2026/11/13/faa-ground-stop.html",
-"source": "CNBC",
-"date": "2026-11-14T05:08:24+00:00"
 },
 {
 "title": "FAA lifts rare nationwide ground stop on flights; air travel may take days to recover",
@@ -38,28 +56,10 @@
 "date": "2026-11-14T01:18:51+00:00"
 },
 {
-"title": "Lutnick faces questions over Nvidia spy scandal. His sons' firm has deep ties to the chipmaker",
-"url": "https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html",
+"title": "Nvidia is done with Jensen Huang. The fallout in Washington is just beginning",
+"url": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-washington-congress.html",
 "source": "CNBC",
-"date": "2026-11-13T23:42:18+00:00"
-},
-{
-"title": "\u2018The thought of living to 100 terrifies me\u2019: Is Social Security a giant Ponzi scheme?",
-"url": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
-"source": "MarketWatch",
-"date": "2026-11-13T23:12:00+00:00"
-},
-{
-"title": "4 expert tips for signing up for Medicare",
-"url": "https://www.marketwatch.com/story/what-really-happens-during-medicare-counseling-6a4f618e?mod=mw_rss_topstories",
-"source": "MarketWatch",
-"date": "2026-11-13T22:45:00+00:00"
-},
-{
-"title": "Rescues underway in New Orleans after a tanker hits a river cruise boat on the Mississippi River",
-"url": "https://www.cnbc.com/2026/11/13/tanker-hits-cruise-boat-in-new-orleans-rescues-underway.html",
-"source": "CNBC",
-"date": "2026-11-13T22:31:41+00:00"
+"date": "2026-11-13T23:54:36+00:00"
 }
 ]
 }
