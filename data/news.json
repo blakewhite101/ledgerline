@@ -1,29 +1,35 @@
 {
-"updatedAt": "2026-11-14T00:52:17.461921+00:00",
+"updatedAt": "2026-11-14T03:46:15.239221+00:00",
 "news": [
+{
+"title": "FAA lifts rare nationwide ground stop on flights; air travel may take days to recover",
+"url": "https://www.marketwatch.com/story/faa-declares-rare-widespread-ground-outage-bdc46393?mod=mw_rss_topstories",
+"source": "MarketWatch",
+"date": "2026-11-14T02:42:00+00:00"
+},
+{
+"title": "FAA lifts ground stop after four hours, but flight cancellations will stretch into the weekend",
+"url": "https://www.cnbc.com/2026/11/13/faa-ground-stop.html",
+"source": "CNBC",
+"date": "2026-11-14T02:33:48+00:00"
+},
+{
+"title": "14 dividend stocks selected for long-term growth",
+"url": "https://www.marketwatch.com/story/14-dividend-stocks-selected-for-long-term-growth-0a095c0d?mod=mw_rss_topstories",
+"source": "MarketWatch",
+"date": "2026-11-14T01:58:00+00:00"
+},
 {
 "title": "Trump doesn\u2019t plan to raise Nvidia, spy issue during China trip: U.S. officials",
 "url": "https://www.cnbc.com/2026/11/13/trump-nvidia-huang-china.html",
 "source": "CNBC",
-"date": "2026-11-14T00:51:58+00:00"
-},
-{
-"title": "FAA grounds departing flights nationwide, citing air traffic communication system outage",
-"url": "https://www.cnbc.com/2026/11/13/faa-ground-stop.html",
-"source": "CNBC",
-"date": "2026-11-14T00:51:11+00:00"
-},
-{
-"title": "FAA declares rare nationwide ground stop on flights, with more than 10,000 delayed so far",
-"url": "https://www.marketwatch.com/story/faa-declares-rare-widespread-ground-outage-bdc46393?mod=mw_rss_topstories",
-"source": "MarketWatch",
-"date": "2026-11-14T00:40:00+00:00"
+"date": "2026-11-14T01:34:11+00:00"
 },
 {
 "title": "SpaceX launches Starship in key test flight of massive rocket",
 "url": "https://www.cnbc.com/2026/11/13/spacex-launches-starship-in-key-test-flight-of-massive-rocket.html",
 "source": "CNBC",
-"date": "2026-11-14T00:36:29+00:00"
+"date": "2026-11-14T01:18:51+00:00"
 },
 {
 "title": "Nvidia is done with Jensen Huang. The fallout in Washington is just beginning",
@@ -54,12 +60,6 @@
 "url": "https://www.cnbc.com/2026/11/13/tanker-hits-cruise-boat-in-new-orleans-rescues-underway.html",
 "source": "CNBC",
 "date": "2026-11-13T22:31:41+00:00"
-},
-{
-"title": "Nvidia\u2019s stock is on a losing streak not seen in 14 years. What comes next?",
-"url": "https://www.marketwatch.com/story/nvidias-stock-is-on-a-losing-streak-not-seen-in-14-years-what-comes-next-a07e801e?mod=mw_rss_topstories",
-"source": "MarketWatch",
-"date": "2026-11-13T22:21:00+00:00"
 }
 ]
 }
