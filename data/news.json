@@ -1,17 +1,41 @@
 {
-"updatedAt": "2026-11-16T01:12:41.512843+00:00",
+"updatedAt": "2026-11-16T04:04:32.901416+00:00",
 "news": [
+{
+"title": "China\u2019s slowdown deepens in October as industrial output, retail sales, investment miss estimates",
+"url": "https://www.cnbc.com/2026/11/16/china-retail-sales-october-industrial-output-investment.html",
+"source": "CNBC",
+"date": "2026-11-16T03:53:59+00:00"
+},
 {
 "title": "Stock futures tick higher as traders brace for Nvidia earnings, Anthropic IPO this week: Live updates",
 "url": "https://www.cnbc.com/2026/11/15/stock-market-today-live-updates.html",
 "source": "CNBC",
-"date": "2026-11-16T01:03:16+00:00"
+"date": "2026-11-16T03:39:12+00:00"
+},
+{
+"title": "Tech world's calls for Jensen Huang to return to Nvidia are growing",
+"url": "https://www.cnbc.com/2026/11/16/nvidia-jensen-huang-return-tech.html",
+"source": "CNBC",
+"date": "2026-11-16T03:35:09+00:00"
+},
+{
+"title": "A big chunk of your 401(k) is likely invested in Nvidia",
+"url": "https://www.marketwatch.com/story/the-scandal-at-nvidia-is-exactly-whats-wrong-with-the-s-p-500-7307457e?mod=mw_rss_topstories",
+"source": "MarketWatch",
+"date": "2026-11-16T03:11:00+00:00"
 },
 {
 "title": "Japan's economy unexpectedly contracts in third-quarter as elevated energy costs bite",
 "url": "https://www.cnbc.com/2026/11/16/japan-q3-gdp-energy-oil-prices.html",
 "source": "CNBC",
-"date": "2026-11-16T01:02:48+00:00"
+"date": "2026-11-16T02:56:24+00:00"
+},
+{
+"title": "$180 million Van Gogh tests the art market and collector confidence",
+"url": "https://www.cnbc.com/2026/11/14/180-million-van-gogh-tests-the-art-market-and-collector-confidence-.html",
+"source": "CNBC",
+"date": "2026-11-16T02:22:04+00:00"
 },
 {
 "title": "\u2018It leaves me with a sour taste\u2019: My elderly mother gave our cousin $800 for a car repair. Should I be worried?",
@@ -36,30 +60,6 @@
 "url": "https://www.cnbc.com/2026/11/15/flight-delays-ground-faa-stop.html",
 "source": "CNBC",
 "date": "2026-11-15T22:33:26+00:00"
-},
-{
-"title": "My older brother, who has no children, cut our only sister out of his will. I\u2019ll get everything. Do I tell her?",
-"url": "https://www.marketwatch.com/story/she-has-a-history-of-financial-mismanagement-my-brother-cut-my-sister-out-of-his-will-im-getting-everything-do-i-tell-her-3e537851?mod=mw_rss_topstories",
-"source": "MarketWatch",
-"date": "2026-11-15T22:15:00+00:00"
-},
-{
-"title": "Nvidia is gearing up for one of Wall Street\u2019s most anticipated earnings calls in years",
-"url": "https://www.marketwatch.com/story/nvidia-is-gearing-up-for-one-of-wall-streets-most-anticipated-earnings-calls-in-years-91855b1e?mod=mw_rss_topstories",
-"source": "MarketWatch",
-"date": "2026-11-15T21:32:00+00:00"
-},
-{
-"title": "Budget airlines are going upscale with first-class seats and faster wifi",
-"url": "https://www.marketwatch.com/story/budget-airlines-are-going-upscale-with-first-class-seats-and-faster-wifi-999868ab?mod=mw_rss_topstories",
-"source": "MarketWatch",
-"date": "2026-11-15T21:31:00+00:00"
-},
-{
-"title": "I inherited $1.4 million from my father. Am I wrong to ask my husband of 25 years for a postnuptial agreement?",
-"url": "https://www.marketwatch.com/story/i-inherited-1-4-million-from-my-father-am-i-wrong-to-ask-my-husband-of-25-years-for-a-postnuptial-agreement-b739c51d?mod=mw_rss_topstories",
-"source": "MarketWatch",
-"date": "2026-11-15T20:30:00+00:00"
 }
 ]
 }
