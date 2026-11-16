@@ -1,11 +1,35 @@
 {
-"updatedAt": "2026-11-16T18:18:47.952518+00:00",
+"updatedAt": "2026-11-16T18:50:44.782825+00:00",
 "news": [
 {
-"title": "Dow falls 500 points, Nasdaq loses 2% as Nvidia leads AI stocks lower: Live updates",
+"title": "Altimeter's Brad Gerstner investing $5 billion in Anthropic IPO",
+"url": "https://www.cnbc.com/2026/11/16/altimeters-brad-gerstner-investing-5-billion-in-anthropic-ipo.html",
+"source": "CNBC",
+"date": "2026-11-16T18:47:54+00:00"
+},
+{
+"title": "Fed Chairman Kevin Warsh stresses importance of AI to economy, but says it could \u2018disappoint\u2019",
+"url": "https://www.cnbc.com/2026/11/16/fed-ai-task-force-kevin-warsh.html",
+"source": "CNBC",
+"date": "2026-11-16T18:46:07+00:00"
+},
+{
+"title": "Dow falls 700 points, Nasdaq loses 2% as Nvidia leads AI stocks lower: Live updates",
 "url": "https://www.cnbc.com/2026/11/15/stock-market-today-live-updates.html",
 "source": "CNBC",
-"date": "2026-11-16T18:11:16+00:00"
+"date": "2026-11-16T18:45:45+00:00"
+},
+{
+"title": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?",
+"url": "https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories",
+"source": "MarketWatch",
+"date": "2026-11-16T18:45:00+00:00"
+},
+{
+"title": "Nvidia board is not considering bringing Jensen Huang back as CEO, source tells CNBC",
+"url": "https://www.cnbc.com/2026/11/16/nvidia-ceo-jensen-huang.html",
+"source": "CNBC",
+"date": "2026-11-16T18:22:06+00:00"
 },
 {
 "title": "OpenAI inks agreements with four independent evaluators to boost company's safety work",
@@ -20,10 +44,10 @@
 "date": "2026-11-16T18:11:00+00:00"
 },
 {
-"title": "Nvidia board is not considering bringing Jensen Huang back as CEO, source tells CNBC",
-"url": "https://www.cnbc.com/2026/11/16/nvidia-ceo-jensen-huang.html",
+"title": "If the AI bubble is popping, history shows these stocks could boom",
+"url": "https://www.cnbc.com/2026/11/16/if-the-ai-bubble-is-popping-history-shows-these-stocks-could-boom.html",
 "source": "CNBC",
-"date": "2026-11-16T18:09:50+00:00"
+"date": "2026-11-16T18:04:00+00:00"
 },
 {
 "title": "What\u2019s the most tax-efficient way to donate to charity?",
@@ -36,30 +60,6 @@
 "url": "https://www.marketwatch.com/story/how-will-ai-shake-up-the-economy-warsh-says-the-fed-is-starting-to-figure-that-out-a72f80c4?mod=mw_rss_topstories",
 "source": "MarketWatch",
 "date": "2026-11-16T17:53:00+00:00"
-},
-{
-"title": "Bitcoin slides to $62,000 following liquidation cascade, then rebounds slightly",
-"url": "https://www.cnbc.com/2026/11/16/bitcoin-slides-to-62000-following-liquidation-cascade-then-rebounds-slightly.html",
-"source": "CNBC",
-"date": "2026-11-16T17:52:38+00:00"
-},
-{
-"title": "Altimeter's Brad Gerstner investing $5 billion in Anthropic IPO",
-"url": "https://www.cnbc.com/2026/11/16/altimeters-brad-gerstner-investing-5-billion-in-anthropic-ipo.html",
-"source": "CNBC",
-"date": "2026-11-16T17:50:45+00:00"
-},
-{
-"title": "Stocks making the biggest moves midday: Lumentum, Sandisk, Coinbase, Nvidia & more",
-"url": "https://www.cnbc.com/2026/11/16/stocks-moving-the-most-today-live-updates.html",
-"source": "CNBC",
-"date": "2026-11-16T17:44:53+00:00"
-},
-{
-"title": "Warren Buffett donates $5.5 billion, says kindness 'compounds' in Thanksgiving letter",
-"url": "https://www.cnbc.com/2026/11/16/warren-buffett-donates-5point5-billion-thanksgiving.html",
-"source": "CNBC",
-"date": "2026-11-16T17:39:32+00:00"
 }
 ]
 }
