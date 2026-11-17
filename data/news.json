@@ -1,17 +1,35 @@
 {
-"updatedAt": "2026-11-17T03:50:38.178858+00:00",
+"updatedAt": "2026-11-17T07:07:58.734428+00:00",
 "news": [
+{
+"title": "U.S. agencies say they initiated investigation into Nvidia partner Megaspeed in 2024",
+"url": "https://www.cnbc.com/2026/11/17/megaspeed-investigation-nvidia-jensen-huang.html",
+"source": "CNBC",
+"date": "2026-11-17T06:59:42+00:00"
+},
+{
+"title": "Iran escalates threats as third U.S. carrier arrives in Middle East, tanker struck in Hormuz",
+"url": "https://www.cnbc.com/2026/11/17/iran-war-trump-hormuz-oil-.html",
+"source": "CNBC",
+"date": "2026-11-17T05:51:13+00:00"
+},
+{
+"title": "Stock futures are mixed after Nvidia pressures tech to start the week: Live updates",
+"url": "https://www.cnbc.com/2026/11/16/stock-market-today-live-updates.html",
+"source": "CNBC",
+"date": "2026-11-17T05:25:43+00:00"
+},
+{
+"title": "Payward co-CEO says stock markets will move to 24/7 trading as tokenized equities grow",
+"url": "https://www.cnbc.com/video/2026/11/17/payward-ceo-dave-ripley-on-tokenized-stocks-and-247-trading.html",
+"source": "CNBC",
+"date": "2026-11-17T05:00:01+00:00"
+},
 {
 "title": "I\u2019m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?",
 "url": "https://www.marketwatch.com/story/im-in-my-40s-should-i-accept-a-lower-pension-in-exchange-for-naming-my-husband-or-child-as-a-beneficiary-b2352059?mod=mw_rss_topstories",
 "source": "MarketWatch",
 "date": "2026-11-17T02:30:00+00:00"
-},
-{
-"title": "Stock futures are little changed after Nvidia pressures tech to start the week: Live updates",
-"url": "https://www.cnbc.com/2026/11/16/stock-market-today-live-updates.html",
-"source": "CNBC",
-"date": "2026-11-17T01:47:49+00:00"
 },
 {
 "title": "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
@@ -42,24 +60,6 @@
 "url": "https://www.marketwatch.com/story/stanley-druckenmiller-dumped-these-chip-stocks-while-buying-into-spacex-and-palantir-9ae1f078?mod=mw_rss_topstories",
 "source": "MarketWatch",
 "date": "2026-11-16T23:28:00+00:00"
-},
-{
-"title": "Jim Cramer says Nvidia\u2019s leadership shake-up won\u2019t derail the AI trade",
-"url": "https://www.cnbc.com/2026/11/16/nvidia-cramer-ai-trade-leadership-change.html",
-"source": "CNBC",
-"date": "2026-11-16T23:23:47+00:00"
-},
-{
-"title": "Aschenbrenner\u2019s Situational Awareness made AI bets again before October rout",
-"url": "https://www.cnbc.com/2026/11/16/situational-awareness-aschenbrenner-new-ai-bets.html",
-"source": "CNBC",
-"date": "2026-11-16T23:05:12+00:00"
-},
-{
-"title": "Do Amazon\u2019s Black Friday deals really save you money? A new report casts doubt.",
-"url": "https://www.marketwatch.com/story/do-amazons-black-friday-deals-really-save-you-money-03859cf3?mod=mw_rss_topstories",
-"source": "MarketWatch",
-"date": "2026-11-16T23:04:00+00:00"
 }
 ]
 }
