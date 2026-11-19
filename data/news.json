@@ -1,17 +1,41 @@
 {
-"updatedAt": "2026-11-19T21:17:54.810729+00:00",
+"updatedAt": "2026-11-19T21:47:39.504882+00:00",
 "news": [
+{
+"title": "Commerce approved sales of more than 879,000 AI chips to Chinese companies, Rep. Mast says",
+"url": "https://www.cnbc.com/2026/11/19/nvidia-amd-china-chip-sales-congress.html",
+"source": "CNBC",
+"date": "2026-11-19T21:43:30+00:00"
+},
+{
+"title": "Intuit to sell Mailchimp to Bending Spoons for $3.68 billion",
+"url": "https://www.cnbc.com/2026/11/19/intuit-mailchimp-sale-bending-spoons.html",
+"source": "CNBC",
+"date": "2026-11-19T21:40:31+00:00"
+},
+{
+"title": "What Ron Johnson's 'Ponzi scheme' label gets wrong about Social Security, experts say",
+"url": "https://www.cnbc.com/2026/11/19/social-security-ponzi-scheme-ron-johnson.html",
+"source": "CNBC",
+"date": "2026-11-19T21:35:46+00:00"
+},
+{
+"title": "Why Micron, Broadcom and other AI stocks gave up their gains Thursday",
+"url": "https://www.marketwatch.com/story/why-micron-intel-and-other-ai-stocks-are-getting-a-lift-on-thursday-cf6f59f8?mod=mw_rss_topstories",
+"source": "MarketWatch",
+"date": "2026-11-19T21:27:00+00:00"
+},
+{
+"title": "UnitedHealth\u2019s stock tumbles after government signals crackdown on Medicare Advantage fraud",
+"url": "https://www.marketwatch.com/story/unitedhealths-stock-keeps-plunging-after-government-signals-crackdown-on-medicare-advantage-fraud-c4770a45?mod=mw_rss_topstories",
+"source": "MarketWatch",
+"date": "2026-11-19T21:22:00+00:00"
+},
 {
 "title": "Anthropic IPO: Investors who flip the stock may face brokerage penalty",
 "url": "https://www.cnbc.com/2026/11/19/anthropic-ipo-flipping-rules.html",
 "source": "CNBC",
 "date": "2026-11-19T21:16:41+00:00"
-},
-{
-"title": "Dow closes below 50,000; Nasdaq falls 2% as Anthropic IPO fails to resuscitate AI trade: Live updates",
-"url": "https://www.cnbc.com/2026/11/18/stock-market-today-live-updates.html",
-"source": "CNBC",
-"date": "2026-11-19T21:16:37+00:00"
 },
 {
 "title": "AMD dives on short-seller report of alleged China exposure",
@@ -32,34 +56,10 @@
 "date": "2026-11-19T21:13:00+00:00"
 },
 {
-"title": "Commerce approved sales of more than 879,000 AI chips to Chinese companies, Rep. Mast says",
-"url": "https://www.cnbc.com/2026/11/19/nvidia-amd-china-chip-sales-congress.html",
-"source": "CNBC",
-"date": "2026-11-19T21:08:45+00:00"
-},
-{
 "title": "\u2018I felt so seen\u2019: Why families across America are laughing \u2014 and crying \u2014 over SNL\u2019s \u2018Sister\u2019 sketch",
 "url": "https://www.marketwatch.com/story/so-sad-and-so-true-has-your-family-talked-about-snls-sister-sketch-yet-19bf9d67?mod=mw_rss_topstories",
 "source": "MarketWatch",
 "date": "2026-11-19T21:06:00+00:00"
-},
-{
-"title": "Rising healthcare costs push Medicare Part B premiums higher",
-"url": "https://www.marketwatch.com/story/medicare-part-b-premiums-rise-due-higher-healthcare-spending-f2daba13?mod=mw_rss_topstories",
-"source": "MarketWatch",
-"date": "2026-11-19T21:05:00+00:00"
-},
-{
-"title": "Palo Alto stock jumps on earnings beat and company's big bet on securing open-weight models",
-"url": "https://www.cnbc.com/2026/11/19/palo-alto-networks-earnings-applied-compute.html",
-"source": "CNBC",
-"date": "2026-11-19T21:00:57+00:00"
-},
-{
-"title": "\u2018Nvidia\u2019s turmoil has me spooked\u2019: Should I sell my stocks and buy real estate \u2014 or ride out the storm?",
-"url": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
-"source": "MarketWatch",
-"date": "2026-11-19T20:50:00+00:00"
 }
 ]
 }
