@@ -1,23 +1,53 @@
 {
-"updatedAt": "2026-11-19T19:29:15.149702+00:00",
+"updatedAt": "2026-11-19T20:25:56.540328+00:00",
 "news": [
 {
-"title": "Amazon launches in-app push against Mamdani-backed delivery bill in New York City",
-"url": "https://www.cnbc.com/2026/11/19/amazon-nyc-delivery-protection-act.html",
+"title": "Dow dives 1,000 points as Anthropic IPO milestone causes investors to take profits: Live updates",
+"url": "https://www.cnbc.com/2026/11/18/stock-market-today-live-updates.html",
 "source": "CNBC",
-"date": "2026-11-19T19:27:34+00:00"
+"date": "2026-11-19T20:21:29+00:00"
+},
+{
+"title": "S&P 500 heads for 6th straight decline. Plus, J&J advances two key products",
+"url": "https://www.cnbc.com/investingclub/2026/11/19/sp-500-heads-for-6th-straight-decline-plus-jj-advances-two-key-products.html",
+"source": "CNBC",
+"date": "2026-11-19T20:10:21+00:00"
+},
+{
+"title": "Anthropic IPO live updates: AI lab tops $2 trillion market cap after record offering",
+"url": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ant-live-updates.html",
+"source": "CNBC",
+"date": "2026-11-19T20:06:32+00:00"
 },
 {
 "title": "Walmart hikes outlook as CEO tells CNBC retailer aims to keep prices low despite soaring fuel costs",
 "url": "https://www.cnbc.com/2026/11/19/walmart-wmt-q3-2026-earnings.html",
 "source": "CNBC",
-"date": "2026-11-19T19:19:25+00:00"
+"date": "2026-11-19T19:58:30+00:00"
 },
 {
-"title": "Dow dives 900 points as Anthropic IPO milestone causes investors to take profits: Live updates",
-"url": "https://www.cnbc.com/2026/11/18/stock-market-today-live-updates.html",
+"title": "Trump bought Nvidia, Palantir, SpaceX in September as federal deals, White House ties grew",
+"url": "https://www.cnbc.com/2026/11/19/trump-nvidia-spacex-palantir-stock-trades-september.html",
 "source": "CNBC",
-"date": "2026-11-19T19:18:40+00:00"
+"date": "2026-11-19T19:43:08+00:00"
+},
+{
+"title": "Why Micron, Broadcom and other AI stocks have given up their gains",
+"url": "https://www.marketwatch.com/story/why-micron-intel-and-other-ai-stocks-are-getting-a-lift-on-thursday-cf6f59f8?mod=mw_rss_topstories",
+"source": "MarketWatch",
+"date": "2026-11-19T19:43:00+00:00"
+},
+{
+"title": "As Sanofi's Pompe drug shortage drags on, some patients struggle to access treatments",
+"url": "https://www.cnbc.com/2026/11/19/as-pompe-drug-shortage-drags-on-patients-struggle-to-get-treatments.html",
+"source": "CNBC",
+"date": "2026-11-19T19:38:33+00:00"
+},
+{
+"title": "Amazon launches in-app push against Mamdani-backed delivery bill in New York City",
+"url": "https://www.cnbc.com/2026/11/19/amazon-nyc-delivery-protection-act.html",
+"source": "CNBC",
+"date": "2026-11-19T19:29:31+00:00"
 },
 {
 "title": "We\u2019re in our 50s and terrified of a market crash. Should we put $400,000 of our $1 million retirement savings into an annuity?",
@@ -30,36 +60,6 @@
 "url": "https://www.marketwatch.com/story/the-surprising-reason-the-u-s-economy-is-speeding-up-and-might-have-more-room-to-run-9016c8db?mod=mw_rss_topstories",
 "source": "MarketWatch",
 "date": "2026-11-19T19:13:00+00:00"
-},
-{
-"title": "This tech stock has been nearly cut in half this year. I think Wall Street is getting it wrong",
-"url": "https://www.cnbc.com/2026/11/19/applovin-app-paul-meeks-buying.html",
-"source": "CNBC",
-"date": "2026-11-19T19:08:20+00:00"
-},
-{
-"title": "Amid recent banking outages, should you start carrying cash again? Top advisors weigh in",
-"url": "https://www.cnbc.com/2026/11/19/banking-outages-emergency-cash.html",
-"source": "CNBC",
-"date": "2026-11-19T19:06:56+00:00"
-},
-{
-"title": "Kraken parent's acquisition of Tribe Capital flags new chapter in evolution of crypto exchanges",
-"url": "https://www.cnbc.com/2026/11/19/acquisition-of-tribe-capital-flags-new-chapter-in-evolution-of-crypto-exchanges.html",
-"source": "CNBC",
-"date": "2026-11-19T19:06:50+00:00"
-},
-{
-"title": "Anthropic IPO live updates: AI lab tops $2 trillion market cap after record offering",
-"url": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ant-live-updates.html",
-"source": "CNBC",
-"date": "2026-11-19T19:06:48+00:00"
-},
-{
-"title": "As Sanofi's Pompe drug shortage drags on, some patients struggle to access treatments",
-"url": "https://www.cnbc.com/2026/11/19/as-pompe-drug-shortage-drags-on-patients-struggle-to-get-treatments.html",
-"source": "CNBC",
-"date": "2026-11-19T18:55:57+00:00"
 }
 ]
 }
