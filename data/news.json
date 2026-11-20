@@ -1,23 +1,53 @@
 {
-"updatedAt": "2026-11-20T03:50:48.493744+00:00",
+"updatedAt": "2026-11-20T07:08:17.571077+00:00",
 "news": [
+{
+"title": "Stock futures tick lower after Dow closes below 50,000 for first time since June: Live updates",
+"url": "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html",
+"source": "CNBC",
+"date": "2026-11-20T07:04:44+00:00"
+},
+{
+"title": "\u2018More than just a game\u2019: How GTA VI\u2019s blockbuster launch fuels a booming content economy",
+"url": "https://www.cnbc.com/2026/11/20/gta-vi-launch-streaming-content-economy.html",
+"source": "CNBC",
+"date": "2026-11-20T06:36:32+00:00"
+},
+{
+"title": "Forget Anthropic: In Europe, the IPO hype is about a blue lagoon",
+"url": "https://www.cnbc.com/2026/11/20/anthropic-ipo-iceland-blue-lagoon.html",
+"source": "CNBC",
+"date": "2026-11-20T06:00:01+00:00"
+},
+{
+"title": "AI is changing software engineering \u2014 and some developers miss the struggle",
+"url": "https://www.cnbc.com/2026/11/20/ai-coding-tools-software-engineers.html",
+"source": "CNBC",
+"date": "2026-11-20T06:00:01+00:00"
+},
+{
+"title": "U.K.-India trade deal faces a stiff test over Scotch whisky import taxes",
+"url": "https://www.cnbc.com/2026/11/20/uk-india-trade-scotch-whisky-tariffs.html",
+"source": "CNBC",
+"date": "2026-11-20T05:09:52+00:00"
+},
 {
 "title": "Anthropic IPO 'exactly what the markets need,' but analysts warn of volatility",
 "url": "https://www.cnbc.com/2026/11/20/anthropic-ipo-stocks-market.html",
 "source": "CNBC",
-"date": "2026-11-20T03:38:07+00:00"
+"date": "2026-11-20T04:51:28+00:00"
+},
+{
+"title": "Senate passes BAAJA permitting reform bill backed by AI, energy sectors",
+"url": "https://www.cnbc.com/2026/11/20/baaja-bill-senate-passes-permitting-reform.html",
+"source": "CNBC",
+"date": "2026-11-20T03:56:17+00:00"
 },
 {
 "title": "\u2018Nvidia\u2019s turmoil has me spooked\u2019: Should I sell my stocks and buy real estate \u2014 or ride out the storm?",
 "url": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
 "source": "MarketWatch",
 "date": "2026-11-20T03:31:00+00:00"
-},
-{
-"title": "Senate passes BAAJA permitting reform bill backed by AI, energy sectors",
-"url": "https://www.cnbc.com/2026/11/20/baaja-bill-senate-passes-permitting-reform.html",
-"source": "CNBC",
-"date": "2026-11-20T03:30:45+00:00"
 },
 {
 "title": "SoftBank plunges over 16% as AI sell-off hits Asian tech stocks following Anthropic debut",
@@ -30,36 +60,6 @@
 "url": "https://www.cnbc.com/2026/11/20/japan-inflation-cpi-october.html",
 "source": "CNBC",
 "date": "2026-11-20T01:49:03+00:00"
-},
-{
-"title": "I\u2019m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?",
-"url": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
-"source": "MarketWatch",
-"date": "2026-11-20T01:30:00+00:00"
-},
-{
-"title": "My wife is bankrolling her family\u2019s trips to New York and it\u2019s draining our savings. Should I ask her to stop?",
-"url": "https://www.marketwatch.com/story/my-wife-pays-thousands-of-dollars-for-her-family-to-visit-from-argentina-how-can-i-convince-her-to-stop-9381351c?mod=mw_rss_topstories",
-"source": "MarketWatch",
-"date": "2026-11-20T01:22:00+00:00"
-},
-{
-"title": "Commerce approved sales of more than 879,000 AI chips to Chinese companies, Rep. Mast says",
-"url": "https://www.cnbc.com/2026/11/19/nvidia-amd-china-chip-sales-congress.html",
-"source": "CNBC",
-"date": "2026-11-20T00:53:55+00:00"
-},
-{
-"title": "Anthropic IPO: Investors who flip the stock may face brokerage penalty",
-"url": "https://www.cnbc.com/2026/11/19/anthropic-ipo-flipping-rules.html",
-"source": "CNBC",
-"date": "2026-11-20T00:16:30+00:00"
-},
-{
-"title": "AMD dives on short seller report of alleged China exposure",
-"url": "https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html",
-"source": "CNBC",
-"date": "2026-11-20T00:08:34+00:00"
 }
 ]
 }
